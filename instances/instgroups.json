@@ -1,0 +1,30 @@
+{
+    "formatVersion": "1",
+    "groups": {
+        "Fabric": {
+            "hidden": false,
+            "instances": [
+                "v1.21.4"
+            ]
+        },
+        "Forge": {
+            "hidden": false,
+            "instances": [
+                "v1.8.9"
+            ]
+        },
+        "Speedrun": {
+            "hidden": false,
+            "instances": [
+                "v1.16.1",
+                "v1.16.5"
+            ]
+        },
+        "Vanilla": {
+            "hidden": false,
+            "instances": [
+                "1.21.5"
+            ]
+        }
+    }
+}

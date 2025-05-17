@@ -1,0 +1,48 @@
+{
+  "currentProfile": "Default Profile",
+  "autoUpdate": true,
+  "updateChannel": 0,
+  "favoriteMods": [],
+  "favoriteColors": [],
+  "recentColors": [
+    {
+      "hsba": [
+        0,
+        0,
+        100,
+        216
+      ],
+      "dataBit": -1
+    },
+    {
+      "hsba": [
+        0,
+        0,
+        100,
+        216
+      ],
+      "dataBit": -1
+    },
+    {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    {
+      "hsba": [
+        220,
+        10,
+        23,
+        0
+      ],
+      "dataBit": -1
+    }
+  ],
+  "australia": false,
+  "enabled": true,
+  "canToggle": true
+}

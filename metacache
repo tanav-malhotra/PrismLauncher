@@ -1,0 +1,1746 @@
+{
+    "entries": [
+        {
+            "base": "FlameMods",
+            "current_age": 1108108,
+            "etag": "\"98210bdf575d5a9b246f69fb3f9de4db\"",
+            "last_changed_timestamp": 1747525164067,
+            "max_age": 31536000,
+            "md5sum": "98210bdf575d5a9b246f69fb3f9de4db",
+            "path": "images/1500ad81e577749ed9e5e2faf599a960b52b4483",
+            "remote_changed_timestamp": "Sat, 14 Mar 2020 10:25:15 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1276,
+            "etag": "\"8713be0051bb6e4a4cb2530ab50fd5ab\"",
+            "last_changed_timestamp": 1747523716490,
+            "max_age": 3600,
+            "md5sum": "8713be0051bb6e4a4cb2530ab50fd5ab",
+            "path": "logos/09303a3af54dc4942dc8810af661345fff6a04c7",
+            "remote_changed_timestamp": "Mon, 30 Nov 2020 15:03:20 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1746,
+            "etag": "\"2e817538df9c7e37b0088a23d81b29ab\"",
+            "last_changed_timestamp": 1747523716503,
+            "max_age": 3600,
+            "md5sum": "2e817538df9c7e37b0088a23d81b29ab",
+            "path": "logos/0c7730dad3715ea2547240faff4d3b8fd3916a71",
+            "remote_changed_timestamp": "Mon, 16 Sep 2024 19:54:55 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1739,
+            "etag": "\"a314221cdf9a7c0a15a67495fecdb760\"",
+            "last_changed_timestamp": 1747525161623,
+            "max_age": 3600,
+            "md5sum": "a314221cdf9a7c0a15a67495fecdb760",
+            "path": "logos/1902699ce64424eba163aa87d03e6cccf41d0747",
+            "remote_changed_timestamp": "Mon, 31 Jul 2023 23:27:46 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1466,
+            "etag": "\"e9210e092275735324562de21ee3b653\"",
+            "last_changed_timestamp": 1747525161606,
+            "max_age": 3600,
+            "md5sum": "e9210e092275735324562de21ee3b653",
+            "path": "logos/1a54f2f0141faa5d968a79a34f6672af02fe6e8b",
+            "remote_changed_timestamp": "Mon, 22 Feb 2021 14:19:43 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1817,
+            "etag": "\"c32b17de867dfc66c9d7f301cc1143ef\"",
+            "last_changed_timestamp": 1747525161635,
+            "max_age": 3600,
+            "md5sum": "c32b17de867dfc66c9d7f301cc1143ef",
+            "path": "logos/2ac4882e435416e667e6d67cada87e7b813bc84d",
+            "remote_changed_timestamp": "Sun, 26 Mar 2023 20:39:25 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 3078,
+            "etag": "\"e6d14aa102455493c836152bc8961eba\"",
+            "last_changed_timestamp": 1747525161615,
+            "max_age": 3600,
+            "md5sum": "e6d14aa102455493c836152bc8961eba",
+            "path": "logos/30c07f5e10b77cc02815b15f0ade5d337e4ca40a",
+            "remote_changed_timestamp": "Mon, 30 Nov 2020 14:53:52 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1365,
+            "etag": "\"bfaea3769a8e6a1a2360d58e386760fd\"",
+            "last_changed_timestamp": 1747523716482,
+            "max_age": 3600,
+            "md5sum": "bfaea3769a8e6a1a2360d58e386760fd",
+            "path": "logos/4a5e05b5163fa820cac127076e6708dba083a683",
+            "remote_changed_timestamp": "Mon, 13 Dec 2021 12:55:25 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1746,
+            "etag": "\"5e562f3060136b21904a77c70b7f0e8f\"",
+            "last_changed_timestamp": 1747523716497,
+            "max_age": 3600,
+            "md5sum": "5e562f3060136b21904a77c70b7f0e8f",
+            "path": "logos/716e0cafe15690e7180d7c927578d42d1d427157",
+            "remote_changed_timestamp": "Sat, 29 Aug 2020 00:40:45 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 2800,
+            "etag": "\"fa1847907f187741e8c76be705812e70\"",
+            "last_changed_timestamp": 1747525161629,
+            "max_age": 3600,
+            "md5sum": "fa1847907f187741e8c76be705812e70",
+            "path": "logos/8ca80218287f24f4dad1d3930559ae4d7736646e",
+            "remote_changed_timestamp": "Sat, 29 Aug 2020 00:21:04 GMT"
+        },
+        {
+            "base": "FlameMods",
+            "current_age": 1182,
+            "etag": "\"698a28131b3af1a6d356ff84eee9639e\"",
+            "last_changed_timestamp": 1747523716508,
+            "max_age": 3600,
+            "md5sum": "698a28131b3af1a6d356ff84eee9639e",
+            "path": "logos/cef682da710592869503b81074abff361481bf55",
+            "remote_changed_timestamp": "Wed, 12 Mar 2025 21:22:38 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"56e06-5f149693c0100\"",
+            "last_changed_timestamp": 1747525269309,
+            "max_age": 2419200,
+            "md5sum": "f04b2d57dd69ff51d02bf8e4b142e00e",
+            "path": "images/287f667548b550e4748f8dc0bfc7cded11c7ec7e",
+            "remote_changed_timestamp": "Mon, 02 Jan 2023 15:14:44 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 4129,
+            "last_changed_timestamp": 1747524891152,
+            "max_age": 14400,
+            "md5sum": "f5fe2672e1095d1bf84ce615323fdd28",
+            "path": "images/352240fbc7d02e8b29cb0c7eda2251ae478ef66a",
+            "remote_changed_timestamp": "Thu, 05 Dec 2024 05:40:34 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"2825-5fb43037604c0\"",
+            "last_changed_timestamp": 1747525277813,
+            "max_age": 2419200,
+            "md5sum": "55f222a5df24303aa7b1715593741806",
+            "path": "images/361e53006585049390cafaf9f9f11308369ad0aa",
+            "remote_changed_timestamp": "Tue, 09 May 2023 13:48:43 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 50622,
+            "last_changed_timestamp": 1747524957808,
+            "max_age": 86400,
+            "md5sum": "c4dcf2d4d6e433410523906fbb5388b5",
+            "path": "images/430a0a808a6c0210ef469c7189d5ca896d97b90f",
+            "remote_changed_timestamp": "Fri, 16 May 2025 07:01:08 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 4129,
+            "last_changed_timestamp": 1747524891164,
+            "max_age": 14400,
+            "md5sum": "3c84d40a33d44f29c51925fe34b306a8",
+            "path": "images/45132c6e65b9c9811f28e8aa88fe7ca30e8e2eca",
+            "remote_changed_timestamp": "Sat, 10 May 2025 04:42:08 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 27528,
+            "etag": "\"646bcf30-88f5\"",
+            "last_changed_timestamp": 1747524957825,
+            "max_age": 14400,
+            "md5sum": "cc90b98e9ff8288a9e8b9d220c9f7877",
+            "path": "images/587493b2b874aca34ba2bc311d8784b14efc7a13",
+            "remote_changed_timestamp": "Mon, 22 May 2023 20:23:12 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 27528,
+            "etag": "\"646bcf30-73b2\"",
+            "last_changed_timestamp": 1747524957826,
+            "max_age": 14400,
+            "md5sum": "084f89449747672f923d901496228917",
+            "path": "images/83e3b8ce9b7bda18eb2384e5550d00e370bc441f",
+            "remote_changed_timestamp": "Mon, 22 May 2023 20:23:12 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 267739,
+            "etag": "\"045c750be6fc4cfcda16897d7ae4002c\"",
+            "last_changed_timestamp": 1747524939439,
+            "max_age": 2678400,
+            "md5sum": "7989459e7036d7c277fc45a311f3e3f4",
+            "path": "images/9504182f4fd84ebe7feb500f225ab3d29199f7c5",
+            "remote_changed_timestamp": "Thu, 15 Feb 2024 15:58:31 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 207,
+            "last_changed_timestamp": 1747524957809,
+            "max_age": 300,
+            "md5sum": "7e4a129f93fc10481044e7d9b7062b7d",
+            "path": "images/a91f163cd2f5aa70229208159d7743253212de60",
+            "remote_changed_timestamp": "Sat, 17 May 2025 23:32:30 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 112,
+            "last_changed_timestamp": 1747524891140,
+            "max_age": 14400,
+            "md5sum": "ffc7dd1486919e4f377b958e95484a2a",
+            "path": "images/c5124e8895dcd2d64d557e657ff7d18c7a89e43e",
+            "remote_changed_timestamp": "Thu, 05 Dec 2024 05:40:34 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 7364,
+            "last_changed_timestamp": 1747524957821,
+            "max_age": 86400,
+            "md5sum": "a31362dff9804b9d314827b09f6bdd06",
+            "path": "images/c8f11c02eabb8e60169ee0b700561c11dc0eebb1",
+            "remote_changed_timestamp": "Sat, 17 May 2025 12:48:37 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 258153,
+            "etag": "\"e183026d8561f4b914a4ecff67c26c72\"",
+            "last_changed_timestamp": 1747524954392,
+            "max_age": 2678400,
+            "md5sum": "e183026d8561f4b914a4ecff67c26c72",
+            "path": "logos/010df2a3dea2ce93470f386abc5dd754c9fcbae6",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:56 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368615,
+            "etag": "\"e43c1d9fe062b4754abb8fea21dff059\"",
+            "last_changed_timestamp": 1747524924559,
+            "max_age": 2678400,
+            "md5sum": "e43c1d9fe062b4754abb8fea21dff059",
+            "path": "logos/0c70aa383409fa1624530059f38e39da9cf1ccd9",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:26 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368502,
+            "etag": "\"345e29607ff9ff6be352aa54b3fb39de\"",
+            "last_changed_timestamp": 1747525152728,
+            "max_age": 2678400,
+            "md5sum": "345e29607ff9ff6be352aa54b3fb39de",
+            "path": "logos/26a9dc9b81d808e593810ce71d22cc0585128a07",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:21:49 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 366954,
+            "etag": "\"157a3c508cdff1c5392e157a5fef33cc\"",
+            "last_changed_timestamp": 1747525146708,
+            "max_age": 2678400,
+            "md5sum": "157a3c508cdff1c5392e157a5fef33cc",
+            "path": "logos/380491a4389046a7d66e30c4a7e5dd1ff59e0ae4",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:16 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 366950,
+            "etag": "\"7d15b876d1515c4045a61bb645095751\"",
+            "last_changed_timestamp": 1747525143277,
+            "max_age": 2678400,
+            "md5sum": "7d15b876d1515c4045a61bb645095751",
+            "path": "logos/3a0a1445affe3572d3df4e101a4537e7b429b79b",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:37 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368699,
+            "etag": "\"8b0f8d450eafe4a4fcc187c54d633c8a\"",
+            "last_changed_timestamp": 1747525143120,
+            "max_age": 2678400,
+            "md5sum": "8b0f8d450eafe4a4fcc187c54d633c8a",
+            "path": "logos/42610bdbfe13d8db503870406967dafd1f37112d",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:24 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368489,
+            "etag": "\"2d423ac1419639a4d0e1d0893f560b58\"",
+            "last_changed_timestamp": 1747525143574,
+            "max_age": 2678400,
+            "md5sum": "2d423ac1419639a4d0e1d0893f560b58",
+            "path": "logos/43c8d07fb087af1c38674aa349e4562ad869c155",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:28 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367454,
+            "etag": "\"164a58f04e3c6365d2468c76858ec7ad\"",
+            "last_changed_timestamp": 1747523763916,
+            "max_age": 2678400,
+            "md5sum": "164a58f04e3c6365d2468c76858ec7ad",
+            "path": "logos/45da288d024b8a110311d05bd75c0e5ddef83aba",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:43 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367454,
+            "etag": "\"831e562623afc8b973b8f602553ea44b\"",
+            "last_changed_timestamp": 1747523763926,
+            "max_age": 2678400,
+            "md5sum": "831e562623afc8b973b8f602553ea44b",
+            "path": "logos/4ba4d04e1ab8c0148f60ccf91c06e47b4bdd50f1",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:34 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 332666,
+            "etag": "\"b39f3a8a9c5958989089173916a3a500\"",
+            "last_changed_timestamp": 1747523714048,
+            "max_age": 2678400,
+            "md5sum": "b39f3a8a9c5958989089173916a3a500",
+            "path": "logos/4bd3584e7b69ca65f2de1f3046ab3f25a48309d1",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 08:17:42 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368700,
+            "etag": "\"7b5ef3c2443a6dd62807edf4019b3828\"",
+            "last_changed_timestamp": 1747525144207,
+            "max_age": 2678400,
+            "md5sum": "7b5ef3c2443a6dd62807edf4019b3828",
+            "path": "logos/4c7b0b857295350e909f40f4820b15054626bdbd",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:06 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 177676,
+            "etag": "\"3dd9c16864abd553920058407858e3b2\"",
+            "last_changed_timestamp": 1747525148507,
+            "max_age": 2678400,
+            "md5sum": "b1598962ae8bbe170c2f5e970e2ab6b0",
+            "path": "logos/50e1f80537f840461b4c8c5ecee0029ff880083a",
+            "remote_changed_timestamp": "Tue, 13 Dec 2022 19:12:21 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368699,
+            "etag": "\"c9bfb3c651618243df30ff9a444bea19\"",
+            "last_changed_timestamp": 1747525143271,
+            "max_age": 2678400,
+            "md5sum": "c9bfb3c651618243df30ff9a444bea19",
+            "path": "logos/53c851d96a5c3910dad933c71fe2f4bfa5d70de3",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:22:57 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367494,
+            "etag": "\"44add86c9763eadacbe3bf8ff7739c56\"",
+            "last_changed_timestamp": 1747523714068,
+            "max_age": 2678400,
+            "md5sum": "44add86c9763eadacbe3bf8ff7739c56",
+            "path": "logos/571a1fb1505ed8fba07b3f2b48ff9e327cd7939f",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:50 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367455,
+            "etag": "\"63ef8c492b56feb7f6bad801e4ea376b\"",
+            "last_changed_timestamp": 1747523763876,
+            "max_age": 2678400,
+            "md5sum": "63ef8c492b56feb7f6bad801e4ea376b",
+            "path": "logos/5d96eaa2d364eaba4faeca161612bc6795dc3c86",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:43 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368349,
+            "etag": "\"adafd7f1784f50a542887561559a4ca2\"",
+            "last_changed_timestamp": 1747524950215,
+            "max_age": 2678400,
+            "md5sum": "71f605b7e2c9517319e08b3e7f81769b",
+            "path": "logos/6d18489a9085c6b6810376af1698cf6f094e69d3",
+            "remote_changed_timestamp": "Tue, 03 Jan 2023 22:49:18 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 366955,
+            "etag": "\"8b69612e91ff4b46b8d8dbd4a938219e\"",
+            "last_changed_timestamp": 1747525148477,
+            "max_age": 2678400,
+            "md5sum": "8b69612e91ff4b46b8d8dbd4a938219e",
+            "path": "logos/74e2516cd713058e562b0f5e8b58ec13b3073c71",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:22:21 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368185,
+            "etag": "\"9b18e04aec2c2a38088b39815ff8a3f8\"",
+            "last_changed_timestamp": 1747525144648,
+            "max_age": 2678400,
+            "md5sum": "9b18e04aec2c2a38088b39815ff8a3f8",
+            "path": "logos/7f729519668213bf1929608e8a4fa1256e146c49",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:33 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368347,
+            "etag": "\"0c17ba77683e0d3257cbd6626d0fc1c9\"",
+            "last_changed_timestamp": 1747524947922,
+            "max_age": 2678400,
+            "md5sum": "0c17ba77683e0d3257cbd6626d0fc1c9",
+            "path": "logos/82413688e231286d067becdfae2b905f69c18023",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:13 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367492,
+            "etag": "\"d26fe8ebae9a6f8d3e496c82433b5d36\"",
+            "last_changed_timestamp": 1747523714073,
+            "max_age": 2678400,
+            "md5sum": "d26fe8ebae9a6f8d3e496c82433b5d36",
+            "path": "logos/84f54ad84ee2d02e1d4c5eeec5d532fdf5d9bf3c",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:50 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367454,
+            "etag": "\"32e86bd294d9d3429e34730d3bb81246\"",
+            "last_changed_timestamp": 1747523763905,
+            "max_age": 2678400,
+            "md5sum": "32e86bd294d9d3429e34730d3bb81246",
+            "path": "logos/86743d8307faeae53743decd19bd2c7782f0653c",
+            "remote_changed_timestamp": "Thu, 05 Dec 2024 09:04:17 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 149257,
+            "etag": "\"f6d4973bc922c5004fef7170d9854518\"",
+            "last_changed_timestamp": 1747525143596,
+            "max_age": 2678400,
+            "md5sum": "f6d4973bc922c5004fef7170d9854518",
+            "path": "logos/874aaaf11dccac5e517cf5da255826e485a58d79",
+            "remote_changed_timestamp": "Thu, 05 Dec 2024 09:04:23 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368349,
+            "etag": "\"26c10b765a282bb975a999e9000fa850\"",
+            "last_changed_timestamp": 1747524949852,
+            "max_age": 2678400,
+            "md5sum": "ca20abc25297bfb8878cc95527138159",
+            "path": "logos/89c558f9701591824d885e52f121fc226b2f989c",
+            "remote_changed_timestamp": "Thu, 23 Nov 2023 21:01:57 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367481,
+            "etag": "\"89c18a8fbc24ecdeda9b3f9933c7078e\"",
+            "last_changed_timestamp": 1747523714056,
+            "max_age": 2678400,
+            "md5sum": "89c18a8fbc24ecdeda9b3f9933c7078e",
+            "path": "logos/8a86c44b1602a618907fb260da07a62df4132910",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:51 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367816,
+            "etag": "\"cce8ad2d102dc457635121df720502dc\"",
+            "last_changed_timestamp": 1747525144642,
+            "max_age": 2678400,
+            "md5sum": "cce8ad2d102dc457635121df720502dc",
+            "path": "logos/8b972b8f45144aba30963a5bd87fda4aa96be926",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:06 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 119171,
+            "etag": "\"0466d1cd6d3a1bda2031765188b8f23d\"",
+            "last_changed_timestamp": 1747523714062,
+            "max_age": 2678400,
+            "md5sum": "4834e303f28a616f5977eef3cb74b5db",
+            "path": "logos/8c245f98542b23e0696437968ee04fd31a84ed74",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:24 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368637,
+            "etag": "\"0e942709f5d5062205286bed9350a614\"",
+            "last_changed_timestamp": 1747524947387,
+            "max_age": 2678400,
+            "md5sum": "0e942709f5d5062205286bed9350a614",
+            "path": "logos/8f44b5d0a159508799a2e6370fe1ddf950fb89fd",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:22 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 121007,
+            "etag": "\"86190ef85b02d7bf91021efeaabd7c7d\"",
+            "last_changed_timestamp": 1747524950852,
+            "max_age": 2678400,
+            "md5sum": "96e670890a003d1fa039723b41f3f72f",
+            "path": "logos/90c23d236c3e8e9a5ab8b2fe38cf6239061903da",
+            "remote_changed_timestamp": "Thu, 11 May 2023 10:46:22 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 145933,
+            "etag": "\"e3c5b710685f610420b1789dcf5f6056\"",
+            "last_changed_timestamp": 1747525156338,
+            "max_age": 2678400,
+            "md5sum": "222293403b22fc2ea17dac442954e6f8",
+            "path": "logos/9268f431511a639ba8f1b46cb5d561f2d036a6a6",
+            "remote_changed_timestamp": "Tue, 03 Dec 2024 17:03:23 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 123722,
+            "etag": "\"7dbae42a7f4b51a254e0d8aedcdabfae\"",
+            "last_changed_timestamp": 1747524950652,
+            "max_age": 2678400,
+            "md5sum": "214c6f681e123a459dc170f3ed9016cb",
+            "path": "logos/997d0321445e045ea5dac51a18aefda3b129214d",
+            "remote_changed_timestamp": "Thu, 02 Mar 2023 04:53:55 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 366963,
+            "etag": "\"f02ae16b469e4d743c66c3775926d9b2\"",
+            "last_changed_timestamp": 1747525156356,
+            "max_age": 2678400,
+            "md5sum": "f02ae16b469e4d743c66c3775926d9b2",
+            "path": "logos/9f4bc87bcb8066c5b68a87826509457f99edbfad",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:19:49 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 310835,
+            "etag": "\"9c70333f44113e4404c87d85d47900d4\"",
+            "last_changed_timestamp": 1747525144620,
+            "max_age": 2678400,
+            "md5sum": "9c70333f44113e4404c87d85d47900d4",
+            "path": "logos/a1015ed20c6f43aa98c4c44f184f4b7b672e4d49",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:28 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 192904,
+            "etag": "\"a6bc8f06fda566c82970d41d6a89eb1b\"",
+            "last_changed_timestamp": 1747525148499,
+            "max_age": 2678400,
+            "md5sum": "a6bc8f06fda566c82970d41d6a89eb1b",
+            "path": "logos/a2e4e1b515a5acc227c720a5aad204404fc0f822",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:22:33 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368615,
+            "etag": "\"cd13e61a594981777ec4539f40efcd1c\"",
+            "last_changed_timestamp": 1747524924567,
+            "max_age": 2678400,
+            "md5sum": "cd13e61a594981777ec4539f40efcd1c",
+            "path": "logos/ad295b0af57dc0cd0df86da29d46a5941a32e7fc",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:04 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 320250,
+            "etag": "\"d011a41b7260af2f9f804dacd3893428\"",
+            "last_changed_timestamp": 1747525143554,
+            "max_age": 2678400,
+            "md5sum": "d011a41b7260af2f9f804dacd3893428",
+            "path": "logos/b065bc5ecf49c1a85fb5e929fb9918dc502666af",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:22:54 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 40223,
+            "etag": "\"35077dba24cbf2ea94d096d427ac68de\"",
+            "last_changed_timestamp": 1747524947686,
+            "max_age": 2678400,
+            "md5sum": "35077dba24cbf2ea94d096d427ac68de",
+            "path": "logos/b333b5043d06c00120167f809e87d1d141386962",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:18 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368542,
+            "etag": "\"ba3e852f0155e1e90ff3b80b126d2232\"",
+            "last_changed_timestamp": 1747525143134,
+            "max_age": 2678400,
+            "md5sum": "ba3e852f0155e1e90ff3b80b126d2232",
+            "path": "logos/b4db2b902104b613235318bc1ed302949cb1936f",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:22:03 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368703,
+            "etag": "\"abba5387f6f0c3cf21fc0c55374dd5fd\"",
+            "last_changed_timestamp": 1747525146729,
+            "max_age": 2678400,
+            "md5sum": "abba5387f6f0c3cf21fc0c55374dd5fd",
+            "path": "logos/b5560036d3e068f577a94d2059b447ecdec19e8e",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:21:37 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368496,
+            "etag": "\"0a47da7ad404f8893dfb9ccee9c42309\"",
+            "last_changed_timestamp": 1747525146734,
+            "max_age": 2678400,
+            "md5sum": "0a47da7ad404f8893dfb9ccee9c42309",
+            "path": "logos/b5b7db702cb11c52e354b7e7eed9690b49c8210d",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:22:54 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368176,
+            "etag": "\"b01c33a4feae11074131b7d3a94fdd18\"",
+            "last_changed_timestamp": 1747525144213,
+            "max_age": 2678400,
+            "md5sum": "b01c33a4feae11074131b7d3a94fdd18",
+            "path": "logos/bebab219453b4f8a2d063578f44c64d8c0e4124f",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:37 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368351,
+            "etag": "\"699c1611e14fb991a49a388338c127cf\"",
+            "last_changed_timestamp": 1747524952293,
+            "max_age": 2678400,
+            "md5sum": "699c1611e14fb991a49a388338c127cf",
+            "path": "logos/c1f9c8f88e221b92138c3190aa2062687bfbb017",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:00 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 367454,
+            "etag": "\"e78c54051bfa20cba78945631863465f\"",
+            "last_changed_timestamp": 1747523763934,
+            "max_age": 2678400,
+            "md5sum": "e78c54051bfa20cba78945631863465f",
+            "path": "logos/ce795b4f6345763f4831ecd6d9f735540f3d9e93",
+            "remote_changed_timestamp": "Tue, 01 Apr 2025 15:54:33 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 181936,
+            "etag": "\"c5d0fb48391babe3552fa8184c9c1c74\"",
+            "last_changed_timestamp": 1747525144181,
+            "max_age": 2678400,
+            "md5sum": "a2ef1a31c5fbfad72e4c11ac6066b02c",
+            "path": "logos/d70dbf51b6c444d6d7fda0f2633b06a400679fec",
+            "remote_changed_timestamp": "Fri, 23 Aug 2024 23:04:43 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 40089,
+            "etag": "\"aaafc0012201fac9a6abdfaa5552d0d8\"",
+            "last_changed_timestamp": 1747525143128,
+            "max_age": 2678400,
+            "md5sum": "aaafc0012201fac9a6abdfaa5552d0d8",
+            "path": "logos/dad457b6e606f4560ac3b33abc29c13b1222dc38",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:33 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368614,
+            "etag": "\"7fa56bc841874e614b7ae9b40d2816f3\"",
+            "last_changed_timestamp": 1747524924572,
+            "max_age": 2678400,
+            "md5sum": "7fa56bc841874e614b7ae9b40d2816f3",
+            "path": "logos/f4ea177963366dec069a921876b3eef0f4ddd512",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:26 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 368492,
+            "etag": "\"e51f282832c6c21ba0b04c6fc5274230\"",
+            "last_changed_timestamp": 1747525143250,
+            "max_age": 2678400,
+            "md5sum": "e51f282832c6c21ba0b04c6fc5274230",
+            "path": "logos/fef48542334d3ae71c554c6a7cd510e74dd6f3bf",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:23:46 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "current_age": 0,
+            "last_changed_timestamp": 1747524166885,
+            "max_age": 1209600,
+            "md5sum": "637755d2651fa6f3c555f0528c74c7dc",
+            "path": "19.json",
+            "remote_changed_timestamp": "Tue, 13 May 2025 08:35:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC80A2DCB5773E",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165014,
+            "md5sum": "7e982dafcf25c24b365b5088eaf8a0a6",
+            "path": "com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar",
+            "remote_changed_timestamp": "Thu, 30 May 2024 12:20:15 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC80A2DC6C8B4B",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165059,
+            "md5sum": "e8f064827ddb8deb06e45d20988bcaa5",
+            "path": "com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar",
+            "remote_changed_timestamp": "Thu, 30 May 2024 12:20:15 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC80A2DC4C0872",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165336,
+            "md5sum": "f26eab82fa1da09f8e8bc7e52fc82088",
+            "path": "com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar",
+            "remote_changed_timestamp": "Thu, 30 May 2024 12:20:14 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C56DAFC7C",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165344,
+            "md5sum": "e4e15667573ea6a967d0171289d59e9c",
+            "path": "com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC80A2DBDE58B1",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165032,
+            "md5sum": "d62dbfa8789378457ada685e2f614846",
+            "path": "com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar",
+            "remote_changed_timestamp": "Thu, 30 May 2024 12:20:14 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C584D3738",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165181,
+            "md5sum": "0c69b9199d3a4e6c34dc03619ff7feee",
+            "path": "com/google/code/gson/gson/2.11.0/gson-2.11.0.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:06:01 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C58333CC5",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165258,
+            "md5sum": "3f75955b49b6758fd6d1e1bd9bf777b3",
+            "path": "com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:06:01 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C57E1334F",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165392,
+            "md5sum": "7b7d80d99af4181db55b00dad50a91bb",
+            "path": "com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:06:00 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C569016F6",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165556,
+            "md5sum": "0621976c76a3b05b0622aef5a4c1d981",
+            "path": "com/ibm/icu/icu4j/76.1/icu4j-76.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C59ABD8EF",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165326,
+            "md5sum": "af37c5d9f4d839c78a103c866ea2bfe4",
+            "path": "com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:06:03 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DCF8C600B13DA5",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165378,
+            "md5sum": "f6c1f2b733258d1dc74533cbad0da8f6",
+            "path": "com/mojang/authlib/6.0.57/authlib-6.0.57.jar",
+            "remote_changed_timestamp": "Wed, 30 Oct 2024 09:34:07 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4634A6BF",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165380,
+            "md5sum": "fc1420e3182dd32b4df9933f810ebebb",
+            "path": "com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DCB6E7544D8099",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165397,
+            "md5sum": "a755b426eb7942bb74b46a95b02f1de4",
+            "path": "com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar",
+            "remote_changed_timestamp": "Wed, 07 Aug 2024 13:46:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC6E7281CD0C4C",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165415,
+            "md5sum": "d932ac637b6d83e6c45a8f269fe81e3b",
+            "path": "com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar",
+            "remote_changed_timestamp": "Tue, 07 May 2024 08:48:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DCCDAC737F6105",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165439,
+            "md5sum": "1ce485d0d63336230f1766557debb59d",
+            "path": "com/mojang/jtracy-natives-windows/1.0.29/jtracy-natives-windows-1.0.29.jar",
+            "remote_changed_timestamp": "Thu, 05 Sep 2024 13:12:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DCCDAC724C594D",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165436,
+            "md5sum": "1c06cd97d006339f58085cdfd8065000",
+            "path": "com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar",
+            "remote_changed_timestamp": "Thu, 05 Sep 2024 13:12:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD04C20161983D",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165451,
+            "md5sum": "0b7da24cea4e840b91c13ed08657a6d3",
+            "path": "com/mojang/logging/1.5.10/logging-1.5.10.jar",
+            "remote_changed_timestamp": "Thu, 14 Nov 2024 15:35:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD1384AF4AC9E1",
+            "eternal": true,
+            "last_changed_timestamp": 1747524166840,
+            "md5sum": "70e2838411853210dce14bdd30769458",
+            "path": "com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar",
+            "remote_changed_timestamp": "Tue, 03 Dec 2024 10:24:35 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4DC28215",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165450,
+            "md5sum": "ff905bf0aacf501149a13880a2d6742d",
+            "path": "com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DB5528647B683F",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165456,
+            "md5sum": "f5b05e8db22e2e0668b786e11ac9d3ce",
+            "path": "com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar",
+            "remote_changed_timestamp": "Mon, 15 May 2023 09:40:17 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC80A2DCECEAB3",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165474,
+            "md5sum": "f0fc0d6be73e838863e2197c03a27c3f",
+            "path": "com/nimbusds/content-type/2.3/content-type-2.3.jar",
+            "remote_changed_timestamp": "Thu, 30 May 2024 12:20:15 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC80A2DD4E9A00",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165477,
+            "md5sum": "31b8a4f76fdbf21f1d667f9d6618e0b2",
+            "path": "com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar",
+            "remote_changed_timestamp": "Thu, 30 May 2024 12:20:16 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C596A8593",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165522,
+            "md5sum": "42ce81c8d034f163663d23e8bbc3638d",
+            "path": "com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:06:03 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C58FA679B",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165516,
+            "md5sum": "7ea0239e0e285c7625964893dcba95ec",
+            "path": "com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:06:02 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C5466CBEB",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165534,
+            "md5sum": "7b3438ab4c6d91e0066d410947e43f3e",
+            "path": "commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:54 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C542DACB3",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165549,
+            "md5sum": "f6232d0e290d58bb93f74f67165bf91f",
+            "path": "commons-io/commons-io/2.17.0/commons-io-2.17.0.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:54 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C53E22B96",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165537,
+            "md5sum": "e7a1e7cb6a89241ed9bfec4c25b6c645",
+            "path": "commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C4EE1F06E",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165565,
+            "md5sum": "c4ddfa85fddc7cdd84ef38c87c036010",
+            "path": "io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:45 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C500F0B81",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165568,
+            "md5sum": "5391594c6f5bbdd944e3e8bcecf3d9ea",
+            "path": "io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C5054C6B8",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165578,
+            "md5sum": "6241a4cfb9c478bbd7aa12512b90735d",
+            "path": "io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C5120CE15",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165573,
+            "md5sum": "2a752fae3646b70f7bd17a2265c788ed",
+            "path": "io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C50A06EB6",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165582,
+            "md5sum": "e133793fdcb3ea2846693f1de1d31906",
+            "path": "io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C4FBF9735",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165594,
+            "md5sum": "9cbf83e1fe1dcc8c92075196f6f0f88c",
+            "path": "io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C50C9736A",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165600,
+            "md5sum": "c5714e7bc9bbd800a52d8d6c145b19e2",
+            "path": "io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C4F7070B4",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165613,
+            "md5sum": "c2da3befce20eaf33fa8005e0797e03a",
+            "path": "io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C565131DC",
+            "eternal": true,
+            "last_changed_timestamp": 1747524166080,
+            "md5sum": "da830fa5023a010d2c2af1484d13cefc",
+            "path": "it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"67ffeb1f-159e8a\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165963,
+            "md5sum": "e041ec21fad8f4dbd2ba7e73c25900d1",
+            "path": "net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar",
+            "remote_changed_timestamp": "Wed, 16 Apr 2025 17:38:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"674f2c77-ab582\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165906,
+            "md5sum": "d0f4187a62328d4a95f3428434efbd48",
+            "path": "net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar",
+            "remote_changed_timestamp": "Tue, 03 Dec 2024 16:06:15 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6743893b-16e03a\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165946,
+            "md5sum": "f810932fdff9aa436d7d4f4ac69ce8c2",
+            "path": "net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar",
+            "remote_changed_timestamp": "Sun, 24 Nov 2024 20:14:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C555A2C31",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165646,
+            "md5sum": "41d91e4a13428fb79c12024cb92a4091",
+            "path": "net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C5594A96F",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165671,
+            "md5sum": "cd756a719c1892e56d9c9d424e8983bb",
+            "path": "net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C550676F3",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165619,
+            "md5sum": "51e60dbf9ac51f6666f0077317990944",
+            "path": "net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C549AC0D3",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165627,
+            "md5sum": "88a65001b616c2e7796f9263ad97bbf1",
+            "path": "net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4420E1F8",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165675,
+            "md5sum": "eb0d9dffe9b0eddead68fe678be76c49",
+            "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C52C9451A",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165710,
+            "md5sum": "1db4bd87b0082044c6e7a6af0b977a3e",
+            "path": "org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:52 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C5261822A",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165697,
+            "md5sum": "7730df72b7fdff4a3a32d89a314f826a",
+            "path": "org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C530326C3",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165702,
+            "md5sum": "2cb357c4b763f47e58af6cad47df6ba3",
+            "path": "org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:52 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DBA8624587D567",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165717,
+            "md5sum": "28d2cd9bf8789fd2ec774fb88436ebd1",
+            "path": "org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar",
+            "remote_changed_timestamp": "Tue, 29 Aug 2023 07:33:42 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C520A2785",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165720,
+            "md5sum": "4dac8bc9a21f3503cd1a856503b6fea0",
+            "path": "org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C519C77D6",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165807,
+            "md5sum": "fd982d71f36250bc31528fc7e3d0807d",
+            "path": "org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C51E6E8AE",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165745,
+            "md5sum": "033362ddeac79ba54fdc33cc2004d445",
+            "path": "org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC3A103D72187B",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165753,
+            "md5sum": "4794379b6074b962bb4cab21bfdb8d9c",
+            "path": "org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar",
+            "remote_changed_timestamp": "Fri, 01 Mar 2024 16:54:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C513A7AC1",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165791,
+            "md5sum": "58a4c6e7475f1121bfd390a819e62c98",
+            "path": "org/joml/joml/1.10.8/joml-1.10.8.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C477115E",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164590,
+            "md5sum": "8ee4638613eaa7918b858edc42a70a9a",
+            "path": "org/lwjgl/lwjgl-freetype-natives-windows-arm64/3.3.3/lwjgl-freetype-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C4B3EA71",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164594,
+            "md5sum": "3bcfead0f4623a0b429f98f1a52b43ae",
+            "path": "org/lwjgl/lwjgl-freetype-natives-windows-x86/3.3.3/lwjgl-freetype-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C490891A",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164597,
+            "md5sum": "f6c227c28bfc55f5bcf35a3d95286796",
+            "path": "org/lwjgl/lwjgl-freetype-natives-windows/3.3.3/lwjgl-freetype-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C4FB9761",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164582,
+            "md5sum": "4506c5f102d10aab0dae80214579352c",
+            "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:52 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C5CB2530",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164561,
+            "md5sum": "cac472eb6f17a2cf0641c9449846916e",
+            "path": "org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.3/lwjgl-glfw-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C59E9D73",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164567,
+            "md5sum": "517fe3396f958b2167889ff54ee9b725",
+            "path": "org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.3/lwjgl-glfw-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C5D6BC3F",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164600,
+            "md5sum": "135887d54b4ce08d087f3644ca75469e",
+            "path": "org/lwjgl/lwjgl-glfw-natives-windows/3.3.3/lwjgl-glfw-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C5BF8E23",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164603,
+            "md5sum": "41c1287c1219fd0b67e8d51879f4c812",
+            "path": "org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C6CBCE01",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164605,
+            "md5sum": "f71740c593171351e32e3a9cf41259fd",
+            "path": "org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.3/lwjgl-jemalloc-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C73A1021",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164621,
+            "md5sum": "3272b6db8bd3e604a1a5c9a9f7c59470",
+            "path": "org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.3/lwjgl-jemalloc-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C72EC725",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164641,
+            "md5sum": "1216d546b0af7aacdbf8a9b96b301b5d",
+            "path": "org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.3/lwjgl-jemalloc-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C69FBB55",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164624,
+            "md5sum": "a8ffc7d8a0d54981f1d7b5c2a40acf01",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:54 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C41D3E9F",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164628,
+            "md5sum": "e4411661054727394d5228554e5ff5a9",
+            "path": "org/lwjgl/lwjgl-natives-windows-arm64/3.3.3/lwjgl-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C3ECE6DE",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164627,
+            "md5sum": "07b3ab69783c45a5f94b28497a9e4934",
+            "path": "org/lwjgl/lwjgl-natives-windows-x86/3.3.3/lwjgl-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C3CBA819",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164632,
+            "md5sum": "57b9ecc451e79997e3d5432f5dffe571",
+            "path": "org/lwjgl/lwjgl-natives-windows/3.3.3/lwjgl-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C367288A",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164653,
+            "md5sum": "b07b2f996310084d57daf2b91243c41c",
+            "path": "org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.3/lwjgl-openal-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C2D97C17",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164724,
+            "md5sum": "6ba8d6e24b37664fae75c75d8dfb53b9",
+            "path": "org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.3/lwjgl-openal-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C3376CED",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164760,
+            "md5sum": "42fee9d5654d4319fd05d65dd65bc61b",
+            "path": "org/lwjgl/lwjgl-openal-natives-windows/3.3.3/lwjgl-openal-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C30519A1",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164671,
+            "md5sum": "3ae8606b16891af57eb08ed5a6f78ed8",
+            "path": "org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C61C6DB0",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164706,
+            "md5sum": "2d7b4a5ac9202e893da4b24ca41f8325",
+            "path": "org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.3/lwjgl-opengl-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:54 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C605B4AD",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164680,
+            "md5sum": "69720f35485dfb71f2ef3c10bd2896e9",
+            "path": "org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.3/lwjgl-opengl-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C6114BC8",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164696,
+            "md5sum": "6577f923b0cf80ee8edbd644fd242cfd",
+            "path": "org/lwjgl/lwjgl-opengl-natives-windows/3.3.3/lwjgl-opengl-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C5FAB9C7",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164807,
+            "md5sum": "d5a85fe9c675ff040197e2e2dd694fc1",
+            "path": "org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C792F89E",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164796,
+            "md5sum": "f73a27007a9d015b1a59e0f6eb7f7c6b",
+            "path": "org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.3/lwjgl-stb-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C75B4EE9",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164778,
+            "md5sum": "f7e7de866334176edff33cc1b2259259",
+            "path": "org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.3/lwjgl-stb-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C7673410",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164749,
+            "md5sum": "de8a908137d9fdfbc1a5bd51821ae627",
+            "path": "org/lwjgl/lwjgl-stb-natives-windows/3.3.3/lwjgl-stb-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C74FDEE5",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164767,
+            "md5sum": "11b824be2cd8532eb6ef063ada6a75bd",
+            "path": "org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C817F3BD",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164973,
+            "md5sum": "85f7ae98689ae3d6667a63b92c4088fa",
+            "path": "org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.3/lwjgl-tinyfd-natives-windows-arm64-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C8440665",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164798,
+            "md5sum": "4b5757966cf76a2f865d5dfe9eb5040c",
+            "path": "org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.3/lwjgl-tinyfd-natives-windows-x86-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C88C4F77",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165185,
+            "md5sum": "29af279b72e41176fe4602cbc3d0dfd8",
+            "path": "org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.3/lwjgl-tinyfd-natives-windows-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C82D9B79",
+            "eternal": true,
+            "last_changed_timestamp": 1747524164842,
+            "md5sum": "c687eaba9debbc609df72ab45f4e1164",
+            "path": "org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC4CD0C40748DB",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165350,
+            "md5sum": "d89fce0be944d8cffd1f82c6546509bf",
+            "path": "org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar",
+            "remote_changed_timestamp": "Mon, 25 Mar 2024 13:37:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DC1CC20CCAC2F0",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165789,
+            "md5sum": "936a927700aa8fc3b75d21d7571171f6",
+            "path": "org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar",
+            "remote_changed_timestamp": "Wed, 24 Jan 2024 09:51:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"67ff76d4-894f\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165874,
+            "md5sum": "3d63508405f5610fc2ea673ff5471553",
+            "path": "org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar",
+            "remote_changed_timestamp": "Wed, 16 Apr 2025 09:22:28 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"67ff76e6-11f1a\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165889,
+            "md5sum": "c8c3d9ccf240144e74d94ff658b024c9",
+            "path": "org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar",
+            "remote_changed_timestamp": "Wed, 16 Apr 2025 09:22:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"67ff76f1-cade\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165909,
+            "md5sum": "4ab1aaec43c77a2d9b56e6d6d496f705",
+            "path": "org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar",
+            "remote_changed_timestamp": "Wed, 16 Apr 2025 09:22:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"67ff76fb-1715f\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165922,
+            "md5sum": "62498ef324bdab15f407d703f7d78d19",
+            "path": "org/ow2/asm/asm-util/9.8/asm-util-9.8.jar",
+            "remote_changed_timestamp": "Wed, 16 Apr 2025 09:23:07 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"67ff76c9-1eca1\"",
+            "eternal": true,
+            "last_changed_timestamp": 1747524165891,
+            "md5sum": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+            "path": "org/ow2/asm/asm/9.8/asm-9.8.jar",
+            "remote_changed_timestamp": "Wed, 16 Apr 2025 09:22:17 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DD054C534B9E10",
+            "eternal": true,
+            "last_changed_timestamp": 1747524166076,
+            "md5sum": "c8de8f5d740584cb24b5652cfba8b3c4",
+            "path": "org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar",
+            "remote_changed_timestamp": "Fri, 15 Nov 2024 08:05:52 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 346,
+            "etag": "W/\"6827a7ff-8e1\"",
+            "last_changed_timestamp": 1747523641730,
+            "max_age": 600,
+            "md5sum": "a73ad98b6a7b23132bec4d8ecf235576",
+            "path": "index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-4e4\"",
+            "last_changed_timestamp": 1747523698340,
+            "max_age": 600,
+            "md5sum": "fb60d455d3b7c433af153083d2fba234",
+            "path": "net.fabricmc.fabric-loader/0.16.14.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 134,
+            "etag": "W/\"6827a7ff-1719d\"",
+            "last_changed_timestamp": 1747523694176,
+            "max_age": 600,
+            "md5sum": "158cd5609bac5b57d703587a645de612",
+            "path": "net.fabricmc.fabric-loader/index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-1f4\"",
+            "last_changed_timestamp": 1747525366938,
+            "max_age": 600,
+            "md5sum": "3a1c189744c3b0c10a6b7e7f5f80e875",
+            "path": "net.fabricmc.intermediary/1.16.1.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-1f4\"",
+            "last_changed_timestamp": 1747525386028,
+            "max_age": 600,
+            "md5sum": "50117927a00f3c0c899786c3dd9eb145",
+            "path": "net.fabricmc.intermediary/1.16.5.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-1f4\"",
+            "last_changed_timestamp": 1747523711253,
+            "max_age": 600,
+            "md5sum": "80cd52ea64b20cc57a86d4b4947c48d3",
+            "path": "net.fabricmc.intermediary/1.21.4.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 151,
+            "etag": "W/\"6827a7ff-2e714\"",
+            "last_changed_timestamp": 1747523711226,
+            "max_age": 600,
+            "md5sum": "16c534b5dbc6d0ae9c4fe133388e003e",
+            "path": "net.fabricmc.intermediary/index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 126,
+            "etag": "W/\"6827a7ff-413\"",
+            "last_changed_timestamp": 1747524161195,
+            "max_age": 600,
+            "md5sum": "40dd75299bbfc3edede898cc77f2da84",
+            "path": "net.minecraft.java/index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 126,
+            "etag": "W/\"6827a7ff-10f8\"",
+            "last_changed_timestamp": 1747524161205,
+            "max_age": 600,
+            "md5sum": "f4c048779b0b63be8234e55bac2b6a76",
+            "path": "net.minecraft.java/java21.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-39ee\"",
+            "last_changed_timestamp": 1747524094361,
+            "max_age": 600,
+            "md5sum": "67a785eceae2493d9706a4cb0cd15d67",
+            "path": "net.minecraft/1.16.1.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 172,
+            "etag": "W/\"6827a7ff-3a04\"",
+            "last_changed_timestamp": 1747524072188,
+            "max_age": 600,
+            "md5sum": "3e4b45bdd80e29fd4c22bd8f3b088e34",
+            "path": "net.minecraft/1.16.5.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 533,
+            "etag": "W/\"6827a7ff-65e4\"",
+            "last_changed_timestamp": 1747523698324,
+            "max_age": 600,
+            "md5sum": "917363de8cc34028f56f46bdee45b2c4",
+            "path": "net.minecraft/1.21.4.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 238,
+            "etag": "W/\"6827a7ff-65e7\"",
+            "last_changed_timestamp": 1747523659478,
+            "max_age": 600,
+            "md5sum": "d7c6cb219359c9c93502eb7473fcd2dd",
+            "path": "net.minecraft/1.21.5.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-3a74\"",
+            "last_changed_timestamp": 1747523968189,
+            "max_age": 600,
+            "md5sum": "ad59b1e8b584696e2d1c8f4cbcf192eb",
+            "path": "net.minecraft/1.8.9.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 239,
+            "etag": "W/\"6827a7ff-5ff12\"",
+            "last_changed_timestamp": 1747523641744,
+            "max_age": 600,
+            "md5sum": "d0c74335946e89ac8808c30d497f97ac",
+            "path": "net.minecraft/index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-a46\"",
+            "last_changed_timestamp": 1747523968172,
+            "max_age": 600,
+            "md5sum": "5d1e5ed9d4de3dba9ef06e4f95c4a52d",
+            "path": "net.minecraftforge/11.15.1.2318.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-1cb465\"",
+            "last_changed_timestamp": 1747523965586,
+            "max_age": 600,
+            "md5sum": "983f45d4ceb65afda9e25870b0baf521",
+            "path": "net.minecraftforge/index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-1d68\"",
+            "last_changed_timestamp": 1747525289158,
+            "max_age": 600,
+            "md5sum": "9fc03d7445147355bc5ddbd6b0cfbdaf",
+            "path": "org.lwjgl/2.9.4-nightly-20150209.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-88a\"",
+            "last_changed_timestamp": 1747525289138,
+            "max_age": 600,
+            "md5sum": "1e7a1e976a293c2231debf5eec4c2850",
+            "path": "org.lwjgl/index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"6827a7ff-e1a3\"",
+            "last_changed_timestamp": 1747525366934,
+            "max_age": 600,
+            "md5sum": "7a43114371cf799375576c1c7780b212",
+            "path": "org.lwjgl3/3.2.2.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 45,
+            "etag": "W/\"6827a7ff-b2e5\"",
+            "last_changed_timestamp": 1747523711237,
+            "max_age": 600,
+            "md5sum": "7a96b3528271c97e26cdb293351c0404",
+            "path": "org.lwjgl3/3.3.3.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 45,
+            "etag": "W/\"6827a7ff-b98\"",
+            "last_changed_timestamp": 1747523711223,
+            "max_age": 600,
+            "md5sum": "813fb946cd83f6086b7464e554240169",
+            "path": "org.lwjgl3/index.json",
+            "remote_changed_timestamp": "Fri, 16 May 2025 21:02:55 GMT"
+        },
+        {
+            "base": "translations",
+            "current_age": 597,
+            "etag": "W/\"68286fc7-5db9\"",
+            "last_changed_timestamp": 1747523536030,
+            "max_age": 600,
+            "md5sum": "56b07b4b27eadb67533a7fa719eb3f4c",
+            "path": "index_v2.json",
+            "remote_changed_timestamp": "Sat, 17 May 2025 11:15:19 GMT"
+        }
+    ],
+    "version": "1"
+}

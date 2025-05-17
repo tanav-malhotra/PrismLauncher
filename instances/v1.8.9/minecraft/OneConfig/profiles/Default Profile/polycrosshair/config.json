@@ -1,0 +1,170 @@
+{
+  "mode": true,
+  "newCrosshairs": [
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAMElEQVR42mNgGH7gPxCQrAGmCZkmyiBkRbjYtPEjNifiEqddCJPsZ4pCm6J4HhoAAPH5X6GdsVWHAAAAAElFTkSuQmCC",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAALklEQVR42mNgGH7gPxCQrAGmCZkmyiBkRbjYtPEjPmfT3nay/UxRaFMUz0MDAAARS2Od/Bu+BgAAAABJRU5ErkJggg\u003d\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAHElEQVR42mNgGH7gPxAMQc0k2wQDxIiPhvaQAQB6xi/RutJpdQAAAABJRU5ErkJggg\u003d\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAHklEQVR42mNgGH7gPxAMQc0k2wQDyDaji4+G9pADAJoJM827QMwQAAAAAElFTkSuQmCC",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAFUlEQVR42mNgGAXDAfwHgtFQGBYAACLWA/2kBeyrAAAAAElFTkSuQmCC",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAGklEQVR42mNgGAWDBPwHArI1wgB9bR4FNAAAn+IT7YgVR7sAAAAASUVORK5CYII\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAGUlEQVR42mNgGH7gPxAMd83/iQCjATYkAQAXJEO9Ljp2dQAAAABJRU5ErkJggg\u003d\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAIklEQVR42mNgGAWUg/9AgI9PtAEkayTbRoptptjPowA7AAAc/SPdfqleIwAAAABJRU5ErkJggg\u003d\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAI0lEQVR42mNgGAUM/4GAFHGCConWSHMv0M9GsgNr4LwwOAEAHP0j3aYYC+gAAAAASUVORK5CYII\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAI0lEQVR42mNgGAUM/6GAkBhOzaSI084LA28b0QFGdmiPAAAAmgkzzYR3j68AAAAASUVORK5CYII\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAHUlEQVR42mNgGAXDAfwHAoo0kmwAugayXTAKUAEA7UAT7aPGU78AAAAASUVORK5CYII\u003d",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAJElEQVR42mNgGAXUAf+RAMka8fGJsgmdTZRLSLaZan4eBbgBABckQ72UVjI1AAAAAElFTkSuQmCC",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    },
+    {
+      "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAJ0lEQVR42mNgGAVw8B8JkKwRH59ojSQZgKwIF5s2NlPkZ4pDe5gDABckQ72jz8YlAAAAAElFTkSuQmCC",
+      "scale": 100,
+      "rotation": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "centered": false
+    }
+  ],
+  "penColor": {
+    "hsba": [
+      0,
+      0,
+      100,
+      255
+    ],
+    "dataBit": -1
+  },
+  "mirror": 0,
+  "canvaSize": 15,
+  "newCurrentCrosshair": {
+    "img": "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAMElEQVR42mNgGH7gPxCQrAGmCZkmyiBkRbjYtPEjNifiEqddCJPsZ4pCm6J4HhoAAPH5X6GdsVWHAAAAAElFTkSuQmCC",
+    "scale": 100,
+    "rotation": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "centered": false
+  },
+  "renderConfig": {
+    "dynamicColor": false,
+    "invertColor": false,
+    "dynamicOpacity": 100,
+    "hostile": false,
+    "hostileColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "passive": false,
+    "passiveColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "player": false,
+    "playerColor": {
+      "hsba": [
+        0,
+        0,
+        100,
+        255
+      ],
+      "dataBit": -1
+    },
+    "showInDebug": false,
+    "showInGuis": false,
+    "showInThirdPerson": false,
+    "showInSpectator": false,
+    "didPatcherMigration": true
+  },
+  "enabled": true,
+  "canToggle": true
+}
