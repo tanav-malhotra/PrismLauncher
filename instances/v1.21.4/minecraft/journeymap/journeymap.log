@@ -1,9 +1,9 @@
-[19:23:28] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[19:23:28] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[19:23:28] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 2.0.0-SNAPSHOT
-[19:23:28] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.api.client.impl.ClientAPI
-[19:23:28] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
-[19:23:29] [Render thread/INFO] [?] Version: JourneyMap 1.21.4-6.0.0-beta.41, built with fabric 0.110.5+1.21.4
+[20:25:49] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[20:25:49] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[20:25:49] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 2.0.0-SNAPSHOT
+[20:25:49] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.api.client.impl.ClientAPI
+[20:25:49] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[20:25:49] [Render thread/INFO] [?] Version: JourneyMap 1.21.4-6.0.0-beta.41, built with fabric 0.110.5+1.21.4
 fabric: 0.16.9
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -21,35 +21,97 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=6.0
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=6.0.0-beta.41, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoHideIconAngle=5, autoRemoveDeathpoints=false, autoHideIcon=false, autoHideLabelAngle=5, renderWaypointsWorld=true, showDeleteConfirmation=true, fullscreenDoubleClickToCreate=true, minDistance=4, boldLabel=false, disableShare=false, showDeathpointlabel=true, textureSmall=true, beaconEnabled=true, createDeathpoints=true, disableStrikeThrough=false, renderWaypointsMap=true, showName=true, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, renderWaypoints=true, wholeNumberTeleportCoords=false, timeFormat=HH:mm:ss, shaderBeacon=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=6.0.0-beta.41, port=8080, enabled=true}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=6.0.0-beta.41, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, maxAmbientCreaturesData=32, optionsManagerViewed=6.0.0-beta.41, announceMod=true, ignoreSnow=false, colorPassive=#bbbbbb, colorPassiveLabel=#bbbbbb, mapShadows=true, mapBlendWater=true, playerIconFade=true, renderDistanceSurfaceMax=0, seedId=false, colorPetLabel=#0077ff, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, initialSortOrder=Name, colorPlayerLabel=#ffffff, revealShape=jm.minimap.shape_circle, mapBiome=true, caveShader=jm.common.map_filter.default, mipmapLevels=5, colorVillagerLabel=#88e188, alwaysMapSurface=false, biomeShader=jm.common.map_filter.default, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, sortDescending=true, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, dayShader=jm.common.map_filter.default, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, colorHostileLabel=#ff0000, mapBlendFoliage=true, topoMax=0, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=true, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, caveModeThreshold=2, legacyIcons=false, netherShader=jm.common.map_filter.default, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, nightShader=jm.common.map_filter.default, cacheMobsData=3000, cachePlayerData=1000, splashViewed=6.0.0-beta.41, colorHostile=#ff0000, topoShader=jm.common.map_filter.default, allowMiniMapBehindScreens=true, cacheAnimalsData=3100, ignoreHeightmaps=false, themeName=Purist, mapCaveLighting=true, renderDelay=2, mobIconFade=true, serverIp=false, glErrorChecking=false, autoMapPoll=2000}
-[19:23:29] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 432.53ms
-[19:23:29] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[19:23:30] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 898.67ms
-[19:23:30] [JM-VersionCheck-1/INFO] [VersionCheck] Newer version online: Current: 6.0.0-beta.41 New: 6.0.0-beta.45 for Minecraft 1.21.4 on https://www.curseforge.com/minecraft/mc-mods/journeymap/files/6495466
-[19:23:30] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: Default Palette
-[19:24:12] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "6.0.0-beta.41": journeymap.server.global.config
-[19:24:12] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\server\6.0\journeymap.server.global.config
-[19:24:12] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "6.0.0-beta.41": journeymap.server.default.config
-[19:24:12] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\server\6.0\journeymap.server.default.config
-[19:24:12] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Valid) Creating config file: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\server\6.0\journeymap.server.minecraft~overworld.config
-[19:24:12] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Valid) Creating config file: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\server\6.0\journeymap.server.minecraft~the_end.config
-[19:24:12] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Valid) Creating config file: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\server\6.0\journeymap.server.minecraft~the_nether.config
-[19:24:15] [Render thread/INFO] [ChatLog] JourneyMap: Press [G] or open browser to http://localhost:57803 
-[19:24:15] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
-[19:24:15] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
-[19:24:15] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
-[19:24:15] [Render thread/INFO] [WaypointGroupStore] Loaded 0 waypoint groups from disk.
-[19:24:15] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
-[19:24:15] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
-[19:24:15] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
-[19:24:15] [Render thread/INFO] [ClientWaypointDAO] Saving WaypointData.dat async:true
-[19:24:15] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
-[19:24:15] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
-[19:24:15] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\sp\New World\colorpalette.json
-[19:24:15] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\sp\New World\overworld. Memory: 8000MB total, 5026MB free 
-[19:29:43] [JM-task-2/WARN] [StatTimer] MapPlayerTask.performTask was slow: 21745.988 (Warning limit reached)
-[19:29:43] [JM-task-2/WARN] [StatTimer] MapPlayerTask.performTask: Avg:  3741.11ms, Min:     0.26ms, Max:   30822.13ms, Total:        295 sec, Count:       79, Canceled:        0, Slow:       10
-[19:34:36] [Netty Local Client IO #0/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
-[19:34:36] [Netty Local Client IO #0/INFO] [TextureCache] [JourneyMap]: Purging Region Images
-[19:34:36] [Netty Local Client IO #0/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
-[19:34:36] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\offline\minecraft:overworld
-[19:34:36] [JM-task-2/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@17321ed9
+[20:25:49] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 342.67ms
+[20:25:50] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[20:25:50] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 685.97ms
+[20:25:50] [JM-VersionCheck-1/INFO] [VersionCheck] Newer version online: Current: 6.0.0-beta.41 New: 6.0.0-beta.45 for Minecraft 1.21.4 on https://www.curseforge.com/minecraft/mc-mods/journeymap/files/6495466
+[20:25:52] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: Default Palette
+[20:26:01] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[20:26:01] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:26:01] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:26:01] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:26:01] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:26:01] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:26:01] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:26:01] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\overworld. Memory: 8000MB total, 6737MB free 
+[20:26:01] [Render thread/INFO] [ChatLog] JourneyMap: Press [G] or open browser to http://localhost:59959 
+[20:28:30] [Netty Client IO #4/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[20:28:30] [Netty Client IO #4/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[20:28:30] [Netty Client IO #4/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[20:28:30] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:overworld
+[20:28:32] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:28:32] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:28:32] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:28:32] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:28:32] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:28:32] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:28:32] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\overworld. Memory: 8000MB total, 6630MB free 
+[20:31:56] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:overworld
+[20:31:58] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:31:58] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:31:58] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:31:58] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:31:58] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:31:58] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:31:58] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\mcz_spee_dream_00204. Memory: 8000MB total, 7081MB free 
+[20:37:03] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:mcz_spee_dream_00204
+[20:37:04] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:37:04] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:37:04] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:37:04] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:37:04] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:37:04] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:37:04] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\overworld. Memory: 8000MB total, 5775MB free 
+[20:38:31] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:overworld
+[20:38:32] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:38:32] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:38:32] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:38:32] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:38:32] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:38:32] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:38:32] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\mcz_spee_dream_8cbec. Memory: 8000MB total, 6865MB free 
+[20:43:38] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:mcz_spee_dream_8cbec
+[20:43:39] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:43:39] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:43:39] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:43:39] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:43:39] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:43:39] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:43:39] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\overworld. Memory: 8000MB total, 4049MB free 
+[20:45:11] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:overworld
+[20:45:12] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:45:12] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:45:12] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:45:12] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:45:12] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:45:12] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:45:12] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\mcz_lava_dream_e1d7e. Memory: 8000MB total, 4939MB free 
+[20:48:18] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:mcz_lava_dream_e1d7e
+[20:48:19] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:48:19] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:48:19] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:48:19] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:48:19] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:48:19] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:48:19] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\overworld. Memory: 8000MB total, 5907MB free 
+[20:49:09] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:overworld
+[20:49:11] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:49:11] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:49:11] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:49:11] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:49:11] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:49:11] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:49:11] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\mcz_elyt_dream_3af9d. Memory: 8000MB total, 7074MB free 
+[20:51:49] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:mcz_elyt_dream_3af9d
+[20:51:50] [Render thread/INFO] [WaypointHandler] Resetting Waypoints and Groups.
+[20:51:50] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from disk.
+[20:51:50] [Render thread/INFO] [WaypointGroupStore] Loaded 4 waypoint groups from disk.
+[20:51:50] [Render thread/INFO] [LegacyWaypointFileMigrator] 0 Legacy waypoints found that need to be migrated and backed up.
+[20:51:50] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 1ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\colorpalette.json
+[20:51:50] [Render thread/INFO] [ColorPalette] Color palette file generated for 0 blockstates in 0ms for: C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\colorpalette.json
+[20:51:50] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\overworld. Memory: 8000MB total, 3995MB free 
+[20:51:55] [Netty Client IO #9/INFO] [TextureCache] [JourneyMap]: Purging Theme Images
+[20:51:55] [Netty Client IO #9/INFO] [TextureCache] [JourneyMap]: Purging Region Images
+[20:51:55] [Netty Client IO #9/INFO] [TextureCache] [JourneyMap]: Purging Mob Icon Images
+[20:51:55] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\tanavm\AppData\Roaming\PrismLauncher\instances\v1.21.4\minecraft\journeymap\data\mp\Skill~Duels\minecraft:overworld
+[20:51:55] [JM-task-11/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@420c90f9

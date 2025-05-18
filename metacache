@@ -356,6 +356,16 @@
         },
         {
             "base": "ModrinthPacks",
+            "current_age": 366557,
+            "etag": "\"68b1f1fe69e467f5067b65e62be26e75\"",
+            "last_changed_timestamp": 1747529409023,
+            "max_age": 2678400,
+            "md5sum": "68b1f1fe69e467f5067b65e62be26e75",
+            "path": "logos/5a509ed340f12337ba396dbe60365c26aaac977f",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:03:39 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
             "current_age": 367455,
             "etag": "\"63ef8c492b56feb7f6bad801e4ea376b\"",
             "last_changed_timestamp": 1747523763876,
@@ -363,6 +373,16 @@
             "md5sum": "63ef8c492b56feb7f6bad801e4ea376b",
             "path": "logos/5d96eaa2d364eaba4faeca161612bc6795dc3c86",
             "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:43 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 369064,
+            "etag": "\"d20c56dd175e74e039e758b575502ada\"",
+            "last_changed_timestamp": 1747529409017,
+            "max_age": 2678400,
+            "md5sum": "e78811251dda98605d9c1fddb1218abb",
+            "path": "logos/6c462915ef40c6a60ed68238b083b186dbafdb84",
+            "remote_changed_timestamp": "Sun, 23 Mar 2025 22:39:10 GMT"
         },
         {
             "base": "ModrinthPacks",
@@ -413,6 +433,16 @@
             "md5sum": "d26fe8ebae9a6f8d3e496c82433b5d36",
             "path": "logos/84f54ad84ee2d02e1d4c5eeec5d532fdf5d9bf3c",
             "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:50 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 372783,
+            "etag": "\"be37f8c815486f6f26e96079f6b3793d\"",
+            "last_changed_timestamp": 1747529409028,
+            "max_age": 2678400,
+            "md5sum": "be37f8c815486f6f26e96079f6b3793d",
+            "path": "logos/863cfadd5666e5e7d95f3efb69fd952a203d074f",
+            "remote_changed_timestamp": "Mon, 14 Oct 2024 20:58:13 GMT"
         },
         {
             "base": "ModrinthPacks",
@@ -473,6 +503,16 @@
             "md5sum": "4834e303f28a616f5977eef3cb74b5db",
             "path": "logos/8c245f98542b23e0696437968ee04fd31a84ed74",
             "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:24 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 372783,
+            "etag": "\"2e0cefaed19669c917bc41a76fd965f8\"",
+            "last_changed_timestamp": 1747529409010,
+            "max_age": 2678400,
+            "md5sum": "2e0cefaed19669c917bc41a76fd965f8",
+            "path": "logos/8c613aa27a3c7dbfe0604ce31c2def7b48418865",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:15:04 GMT"
         },
         {
             "base": "ModrinthPacks",
@@ -553,6 +593,16 @@
             "md5sum": "cd13e61a594981777ec4539f40efcd1c",
             "path": "logos/ad295b0af57dc0cd0df86da29d46a5941a32e7fc",
             "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:04 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 372783,
+            "etag": "\"c7bea6f41887ff00a2bc16dade06a0a4\"",
+            "last_changed_timestamp": 1747529409001,
+            "max_age": 2678400,
+            "md5sum": "c7bea6f41887ff00a2bc16dade06a0a4",
+            "path": "logos/ae26de8c62f968ec0306f085bf79f879e1613f16",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:19:18 GMT"
         },
         {
             "base": "ModrinthPacks",
@@ -646,6 +696,16 @@
         },
         {
             "base": "ModrinthPacks",
+            "current_age": 373191,
+            "etag": "\"1c7ba65e0a0f3c989cf41d91960a02c0\"",
+            "last_changed_timestamp": 1747529413739,
+            "max_age": 2678400,
+            "md5sum": "1c7ba65e0a0f3c989cf41d91960a02c0",
+            "path": "logos/d93c71ddc3a6ea658693e5aa6f8be93877ce1355",
+            "remote_changed_timestamp": "Sun, 08 Sep 2024 04:24:50 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
             "current_age": 40089,
             "etag": "\"aaafc0012201fac9a6abdfaa5552d0d8\"",
             "last_changed_timestamp": 1747525143128,
@@ -677,6 +737,7 @@
         {
             "base": "asset_indexes",
             "current_age": 0,
+            "etag": "0x8DD91F91FA55A72",
             "last_changed_timestamp": 1747524166885,
             "max_age": 1209600,
             "md5sum": "637755d2651fa6f3c555f0528c74c7dc",
