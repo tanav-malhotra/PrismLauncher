@@ -51,8 +51,8 @@ damageTiltStrength:0.14553990610328613
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/LowOnFire 1.21.4.zip"]
-incompatibleResourcePacks:["appleskin","jade","terrablender","worldedit"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Lower Fire.zip","file/FreshAnimations_v1.9.3.zip"]
+incompatibleResourcePacks:["appleskin","do_a_barrel_roll","jade","terrablender","worldedit","yet_another_config_lib_v3"]
 lastServer:localhost:25567
 lang:en_us
 chatVisibility:0
