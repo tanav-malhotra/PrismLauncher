@@ -1,0 +1,46 @@
+function end-practice:rng/random_rot_diag
+execute if score swingSide Settings matches 0 if score rotation rng matches 0 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-125f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 1 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-126f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 2 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-127f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 3 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-128f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 4 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-129f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 5 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-130f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 6 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-131f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 7 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-132f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 8 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-133f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 9 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-134f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 10 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-135f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 11 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-136f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 12 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-137f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 13 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-138f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 14 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-139f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 15 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-140f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 16 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-141f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 17 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-142f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 18 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-143f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 19 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-144f, 0f]}
+execute if score swingSide Settings matches 0 if score rotation rng matches 20 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-145f, 0f]}
+
+execute if score swingSide Settings matches 1 if score rotation rng matches 0..1 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-123f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 2..3 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-124f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 4..5 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-125f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 6..7 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-126f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 7..8 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-127f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 9..10 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-128f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 11..12 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-129f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 13..14 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-130f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 15..16 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-131f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 17..18 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-132f, 0f]}
+execute if score swingSide Settings matches 1 if score rotation rng matches 19..20 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-133f, 0f]}
+
+execute if score swingSide Settings matches 2 if score rotation rng matches 0..1 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-137f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 2..3 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-138f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 4..5 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-139f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 6..7 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-140f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 7..8 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-141f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 9..10 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-142f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 11..12 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-143f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 13..14 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-144f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 15..16 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-145f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 17..18 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-146f, 0f]}
+execute if score swingSide Settings matches 2 if score rotation rng matches 19..20 positioned as @e[tag=random_h,limit=1] run summon minecraft:ender_dragon ~ ~ ~ {DragonPhase:3,Rotation:[-147f, 0f]}
