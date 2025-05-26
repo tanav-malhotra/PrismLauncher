@@ -1,0 +1,134 @@
+{
+  "mc_version": "1.16.1",
+  "speedrunigt_version": "15.1+1.16.1",
+  "category": "ANY",
+  "run_type": "random_seed",
+  "is_completed": false,
+  "is_coop": false,
+  "is_hardcore": false,
+  "world_name": "Random Speedrun #4",
+  "is_cheat_allowed": false,
+  "default_gamemode": 0,
+  "date": 1748214635689,
+  "retimed_igt": 67374,
+  "final_igt": 66352,
+  "stats_igt": 0,
+  "final_rta": 69367,
+  "open_lan": null,
+  "timelines": [],
+  "advancements": {
+    "minecraft:adventure/adventuring_time": {
+      "complete": false,
+      "is_advancement": true,
+      "criteria": {
+        "minecraft:frozen_river": {
+          "igt": 63952,
+          "rta": 63937
+        },
+        "minecraft:snowy_mountains": {
+          "igt": 0,
+          "rta": 0
+        },
+        "minecraft:snowy_tundra": {
+          "igt": 8952,
+          "rta": 8939
+        }
+      },
+      "igt": 0,
+      "rta": 0
+    },
+    "minecraft:recipes/building_blocks/dark_oak_wood": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_log": {
+          "igt": 23352,
+          "rta": 23332
+        },
+        "has_the_recipe": {
+          "igt": 23352,
+          "rta": 23332
+        }
+      },
+      "igt": 23352,
+      "rta": 23337
+    },
+    "minecraft:recipes/building_blocks/dark_oak_planks": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_log": {
+          "igt": 23352,
+          "rta": 23334
+        },
+        "has_the_recipe": {
+          "igt": 23352,
+          "rta": 23334
+        }
+      },
+      "igt": 23352,
+      "rta": 23337
+    },
+    "minecraft:recipes/misc/charcoal": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_log": {
+          "igt": 23352,
+          "rta": 23334
+        },
+        "has_the_recipe": {
+          "igt": 23352,
+          "rta": 23334
+        }
+      },
+      "igt": 23352,
+      "rta": 23337
+    },
+    "minecraft:recipes/misc/red_dye_from_poppy": {
+      "complete": true,
+      "is_advancement": false,
+      "criteria": {
+        "has_red_flower": {
+          "igt": 60302,
+          "rta": 60286
+        },
+        "has_the_recipe": {
+          "igt": 60302,
+          "rta": 60286
+        }
+      },
+      "igt": 60352,
+      "rta": 60332
+    }
+  },
+  "stats": {
+    "55ec3042-107a-413f-a189-3a26292be9df": {
+      "stats": {
+        "minecraft:picked_up": {
+          "minecraft:poppy": 1
+        },
+        "minecraft:custom": {
+          "minecraft:jump": 48,
+          "minecraft:open_chest": 1,
+          "minecraft:time_since_rest": 1324,
+          "minecraft:play_one_minute": 1324,
+          "minecraft:sprint_one_cm": 10417,
+          "minecraft:damage_taken": 100,
+          "minecraft:time_since_death": 1324,
+          "minecraft:walk_one_cm": 3083,
+          "minecraft:fall_one_cm": 3104,
+          "minecraft:fly_one_cm": 17408
+        },
+        "minecraft:mined": {
+          "minecraft:grass": 2,
+          "minecraft:poppy": 1
+        },
+        "minecraft:used": {
+          "minecraft:poppy": 1
+        }
+      },
+      "DataVersion": 2567
+    }
+  }
+}

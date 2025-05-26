@@ -1,75 +1,75 @@
      0.000 D | Testing "C:/Users/tanavm/AppData/Roaming/PrismLauncher/qtlogging.ini" ...
-     0.001 D | Found "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher/data/../qtlogging.ini" ...
-     0.001 D | Loading logging rules from: "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher/data/../qtlogging.ini"
-     0.001 D | Setting log rules:
-     0.001 D |      "*.debug=true"
-     0.001 D |      "launcher.auth.credentials.debug=false"
-     0.001 D |      "launcher.task=false"
-     0.001 D |      "launcher.task.net=true"
-     0.001 D |      "launcher.task.net.download.debug=false"
-     0.001 D |      "launcher.task.net.metacache=false"
-     0.001 D |      "launcher.task.net.metacache.http=true"
-     0.001 D |      "launcher.task.net.upload=true"
-     0.001 D |      "qt.*.debug=false"
-     0.001 D | <> Log initialized.
-     0.001 D | <> No migration needed from "PolyMC"
-     0.001 D | <> No migration needed from "MultiMC"
-     0.001 D | Prism Launcher, � 2022-2025 Prism Launcher Contributors, � 2021-2022 PolyMC Contributors, � 2012-2021 MultiMC Contributors
-     0.001 D | Version                    :  "9.4"
-     0.001 D | Platform                   :  "official"
-     0.001 D | Git commit                 :  ""
-     0.001 D | Git refspec                :  "refs/heads/stable"
-     0.001 D | Compiled for               :  "Windows 10.0.20348 AMD64"
-     0.001 D | Compiled by                :  "MSVC - 19.43.34808.0"
-     0.001 D | Build Artifact             :  "Windows-MSVC-Qt6"
-     0.001 D | Updates Enabled           :  Yes
-     0.001 D | Work dir before adjustment :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
-     0.001 D | Work dir after adjustment  :  "C:/Users/tanavm/AppData/Roaming/PrismLauncher"
-     0.001 D | Adjusted by                :  "Persistent data path"
-     0.001 D | Binary path                :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
-     0.001 D | Application root path      :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
-     0.001 D | <> Paths set.
-     0.006 D | Detected default console font: "Courier New" , substitutions: ""
-     0.014 D | <> Settings loaded.
-     0.014 D | Detecting proxy settings...
-     0.014 D | Using no proxy is an option!
-     0.014 D | <> Network done.
-     0.015 D | Your language is "en_US"
-     0.015 D | <> Translations loaded.
-     0.016 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/icons"
-     0.016 D | Sorting icon list...
-     0.016 D | <> Instance icons initialized.
-     0.016 D | [Theme] Determining System Widget Theme...
-     0.016 D | [Theme] System theme seems to be: "windows11"
-     0.016 D | [Theme] <> Initializing Icon Themes
-     0.016 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "pe_light"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "OSX"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "iOS"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "flat"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "flat_white"
-     0.017 D | [Theme] Loaded Built-In Icon Theme "multimc"
-     0.017 D | [Theme] Icon Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/iconthemes"
-     0.017 D | [Theme] <> Icon themes initialized.
-     0.017 D | [Theme] <> Initializing Widget Themes
-     0.017 D | [Theme] Loading Built-in Theme: "system"
-     0.017 D | [Theme] Loading Built-in Theme: "dark"
-     0.017 D | [Theme] Loading Built-in Theme: "bright"
-     0.017 D | [Theme] <> Initializing System Widget Themes
-     0.017 D | [Theme] Loading System Theme: "windows11"
-     0.017 D | [Theme] Loading System Theme: "windowsvista"
-     0.017 D | [Theme] Loading System Theme: "Windows"
-     0.017 D | [Theme] Loading System Theme: "Fusion"
-     0.017 D | [Theme] Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/themes"
-     0.017 D | [Theme] <> Widget themes initialized.
-     0.017 D | [Theme] CatPacks Folder Path: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/catpacks"
-     0.022 D | Instance path              :  "instances"
-     0.022 D | Loading Instances...
-     0.022 D | Discovering instances in "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances"
+     0.000 D | Found "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher/data/../qtlogging.ini" ...
+     0.000 D | Loading logging rules from: "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher/data/../qtlogging.ini"
+     0.000 D | Setting log rules:
+     0.000 D |      "*.debug=true"
+     0.000 D |      "launcher.auth.credentials.debug=false"
+     0.000 D |      "launcher.task=false"
+     0.000 D |      "launcher.task.net=true"
+     0.000 D |      "launcher.task.net.download.debug=false"
+     0.000 D |      "launcher.task.net.metacache=false"
+     0.000 D |      "launcher.task.net.metacache.http=true"
+     0.000 D |      "launcher.task.net.upload=true"
+     0.000 D |      "qt.*.debug=false"
+     0.000 D | <> Log initialized.
+     0.000 D | <> No migration needed from "PolyMC"
+     0.000 D | <> No migration needed from "MultiMC"
+     0.000 D | Prism Launcher, � 2022-2025 Prism Launcher Contributors, � 2021-2022 PolyMC Contributors, � 2012-2021 MultiMC Contributors
+     0.000 D | Version                    :  "9.4"
+     0.000 D | Platform                   :  "official"
+     0.000 D | Git commit                 :  ""
+     0.000 D | Git refspec                :  "refs/heads/stable"
+     0.000 D | Compiled for               :  "Windows 10.0.20348 AMD64"
+     0.000 D | Compiled by                :  "MSVC - 19.43.34808.0"
+     0.000 D | Build Artifact             :  "Windows-MSVC-Qt6"
+     0.000 D | Updates Enabled           :  Yes
+     0.000 D | Work dir before adjustment :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
+     0.000 D | Work dir after adjustment  :  "C:/Users/tanavm/AppData/Roaming/PrismLauncher"
+     0.000 D | Adjusted by                :  "Persistent data path"
+     0.000 D | Binary path                :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
+     0.000 D | Application root path      :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
+     0.000 D | <> Paths set.
+     0.004 D | Detected default console font: "Courier New" , substitutions: ""
+     0.013 D | <> Settings loaded.
+     0.013 D | Detecting proxy settings...
+     0.013 D | Using no proxy is an option!
+     0.013 D | <> Network done.
+     0.014 D | Your language is "en_US"
+     0.014 D | <> Translations loaded.
+     0.015 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/icons"
+     0.015 D | Sorting icon list...
+     0.015 D | <> Instance icons initialized.
+     0.015 D | [Theme] Determining System Widget Theme...
+     0.015 D | [Theme] System theme seems to be: "windows11"
+     0.015 D | [Theme] <> Initializing Icon Themes
+     0.015 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "pe_light"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "OSX"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "iOS"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "flat"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "flat_white"
+     0.015 D | [Theme] Loaded Built-In Icon Theme "multimc"
+     0.015 D | [Theme] Icon Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/iconthemes"
+     0.015 D | [Theme] <> Icon themes initialized.
+     0.015 D | [Theme] <> Initializing Widget Themes
+     0.016 D | [Theme] Loading Built-in Theme: "system"
+     0.016 D | [Theme] Loading Built-in Theme: "dark"
+     0.016 D | [Theme] Loading Built-in Theme: "bright"
+     0.016 D | [Theme] <> Initializing System Widget Themes
+     0.016 D | [Theme] Loading System Theme: "windows11"
+     0.016 D | [Theme] Loading System Theme: "windowsvista"
+     0.016 D | [Theme] Loading System Theme: "Windows"
+     0.016 D | [Theme] Loading System Theme: "Fusion"
+     0.016 D | [Theme] Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/themes"
+     0.016 D | [Theme] <> Widget themes initialized.
+     0.016 D | [Theme] CatPacks Folder Path: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/catpacks"
+     0.021 D | Instance path              :  "instances"
+     0.021 D | Loading Instances...
+     0.021 D | Discovering instances in "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances"
      0.022 D | Found instance ID "1.21.5"
      0.022 D | Found instance ID "v1.16.1"
      0.022 D | Found instance ID "v1.16.5"
@@ -77,154 +77,237 @@
      0.022 D | Found instance ID "v1.8.9"
      0.022 D | Will load group list now.
      0.022 D | Group list loaded.
-     0.023 D | Loaded instance  "1.21.5"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/1.21.5"
+     0.022 D | Loaded instance  "1.21.5"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/1.21.5"
      0.023 D | Loaded instance  "v1.16.1"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.16.1"
      0.023 D | Loaded instance  "v1.16.5"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.16.5"
      0.023 D | Loaded instance  "v1.21.4"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4"
-     0.024 D | Loaded instance  "v1.8.9"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.8.9"
-     0.024 D | <> Instances loaded.
-     0.024 D | Loading accounts...
-     0.024 D | AccountList: Queued default account with internal ID  "9fd52650a1574a83acda04abcdb56008"  to refresh first
+     0.023 D | Loaded instance  "v1.8.9"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.8.9"
+     0.023 D | <> Instances loaded.
+     0.023 D | Loading accounts...
+     0.024 D | AccountList: Queued default account with internal ID  "ad52add2095d4b11b40ee742abb73e89"  to refresh first
      0.024 D | AuthFlow: "Logging in with Microsoft account."
-     0.036 D | RefreshSchedule: Processing account  "TechProKing"  with internal ID  "9fd52650a1574a83acda04abcdb56008"
-     0.036 D | <> Accounts loaded.
+     0.035 D | RefreshSchedule: Processing account  "TechProKing"  with internal ID  "ad52add2095d4b11b40ee742abb73e89"
+     0.035 D | <> Accounts loaded.
      0.037 D | <> Cache initialized.
      0.037 D | Downloading Translations Index...
-     0.038 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+     0.037 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
      0.050 D | [Theme] <> Icon theme set.
      0.050 D | [Theme] applying theme "Dark"
      0.050 D | [Theme] <> Application theme set.
-     0.066 D | Reloading news.
-     0.066 D | [launcher.instance.profile.resolve]: Loading components
-     0.066 D | "v1.21.4" | Component list save is scheduled
-     0.069 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "LWJGL 3"
-     0.071 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Minecraft"
-     0.071 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Intermediary Mappings"
-     0.072 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Fabric Loader"
-     0.072 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
-     0.076 D | Instance-type specific settings were loaded!
-     0.145 D | <> Main window shown.
-     0.145 D | Initializing updater
-     0.145 D | <> Updater started.
-     0.164 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
-     0.210 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
-     0.217 D | Got translations index!
-     0.217 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
-     0.268 D | Finished loading RSS feed.
-     0.271 D | Loaded news entry "Prism Launcher Release 9.4, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 9.3, now available"
-     0.271 D | Loaded news entry "[April Fools 2025] Announcing Prism Premium"
-     0.271 D | Loaded news entry "Moving on from Twitter"
-     0.271 D | Loaded news entry "Prism Launcher Release 9.2, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 9.1, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 9.0, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 8.4, now available"
-     0.271 D | Loaded news entry "Microsoft authentication issues in some regions"
-     0.271 D | Loaded news entry "Prism Launcher Release 8.3, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 8.2, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 8.1, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 8.0, now available"
-     0.271 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
-     0.271 D | Loaded news entry "Prism Launcher Release 7.2, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 7.1, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 7.0, now available"
-     0.271 D | Loaded news entry "FTB Modpack Downloading Removal."
-     0.271 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
-     0.271 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 6.2, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 6.1, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 6.0, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 5.2, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 5.1, now available"
-     0.271 D | Loaded news entry "Prism Launcher Release 5.0, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.4.2, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.4.1, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.4.0, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.3.2, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.3.1, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.3.0, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-     0.271 D | Loaded news entry "PolyMC Update 1.2.1, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.2.0, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.1.1, now available"
-     0.271 D | Loaded news entry "PolyMC Update 1.1.0, now available"
-     0.271 D | Loaded news entry "Moving on"
-     0.271 D | Loaded news entry "Modrinth support and Mod downloading"
-     0.271 D | Loaded news entry "New maintainers and step down."
-     0.271 D | News loading succeeded.
-     0.489 D | AuthFlow: "Logging in as an Xbox user."
-     0.489 D | First layer of XBox auth ... commencing.
-     0.489 D | [launcher.task.net.upload]: "{bfb0fb8c-7f5e-45d5-a0ee-09585217ed70}" Running  "https://user.auth.xboxlive.com/user/authenticate"
-     0.580 D | [launcher.task.net.upload]: "{bfb0fb8c-7f5e-45d5-a0ee-09585217ed70}" Request succeeded: "https://user.auth.xboxlive.com/user/authenticate"
-     0.580 D | Parsing "UToken" :
-     0.580 D | "UToken" is valid.
-     0.580 D | AuthFlow: "Getting authorization to access Xbox services."
-     0.580 D | Getting authorization token for  "http://xboxlive.com"
-     0.580 D | [launcher.task.net.upload]: "{6ad4b20f-4a6d-4653-ade0-65c561bcefe7}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.678 D | [launcher.task.net.upload]: "{6ad4b20f-4a6d-4653-ade0-65c561bcefe7}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.678 D | Parsing "Xbox" :
-     0.678 D | "Xbox" is valid.
-     0.678 D | AuthFlow: "Getting authorization to access Mojang services."
-     0.678 D | Getting authorization token for  "rp://api.minecraftservices.com/"
-     0.678 D | [launcher.task.net.upload]: "{9af82275-66fb-45a0-88d1-a05c8484157c}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.762 D | [launcher.task.net.upload]: "{9af82275-66fb-45a0-88d1-a05c8484157c}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.762 D | Parsing "Mojang" :
-     0.762 D | "Mojang" is valid.
-     0.762 D | AuthFlow: "Accessing Mojang services."
-     0.762 D | Getting Minecraft access token...
-     0.762 D | [launcher.task.net.upload]: "{050605e7-60e1-47e1-814b-79e622331851}" Running  "https://api.minecraftservices.com/launcher/login"
-     1.336 D | [launcher.task.net.upload]: "{050605e7-60e1-47e1-814b-79e622331851}" Request succeeded: "https://api.minecraftservices.com/launcher/login"
-     1.336 D | Parsing Mojang response...
-     1.336 D | Mojang response is valid.
-     1.336 D | AuthFlow: "Fetching Xbox profile."
-     1.336 D | Getting Xbox profile...
-     1.583 D | AuthFlow: "Determining game ownership."
-     1.583 D | Getting entitlements...
-     1.866 D | "v1.21.4" | Component list save performed now
-     1.869 D | [launcher.instance.profile.resolve]: Loading components
-     1.869 D | "v1.21.4" | Component list save is scheduled
-     1.869 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "LWJGL 3"
-     1.869 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Minecraft"
-     1.869 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Intermediary Mappings"
-     1.869 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Fabric Loader"
-     1.870 D | QProxyStyle NoBigComboBox created for "" QStyleSheetStyle(0x14868cb2270)
-     1.875 D | [launcher.instance.profile]: "v1.21.4" | Applying "org.lwjgl3" GOOD
-     1.875 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.minecraft" GOOD
-     1.875 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.intermediary" GOOD
-     1.875 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.fabric-loader" GOOD
-     1.890 D | World Name: "New World"
-     1.890 D | Last Played: "Sat May 17 19:34:37 2025"
-     1.890 D | Seed: -2755224086052570684
-     1.890 D | Size: 80461875
-     1.890 D | GameType: "Survival"
-     2.124 W | QLayout: Attempting to add QLayout "" to InstanceWindow "", which already has a layout
-     2.176 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
-     2.178 D | Parsing Minecraft entitlements...
-     2.178 D | AuthFlow: "Fetching the Minecraft profile."
-     2.229 D | [launcher.instance.profile.resolve]: Remote task 2 succeeded
-     2.229 D | [launcher.instance.profile.resolve]: Remote task 1 succeeded
-     2.229 D | [launcher.instance.profile.resolve]: Remote task 3 succeeded
-     2.229 D | [launcher.instance.profile.resolve]: Remote task 0 succeeded
-     2.230 D | [launcher.instance.profile.resolve]: Resolving dependencies
-     2.230 D | [launcher.instance.profile.resolve]: "Req: net.fabricmc.intermediary" Is met.
-     2.230 D | [launcher.instance.profile.resolve]: "Req: net.minecraft == 1.21.4" Is met.
-     2.230 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is met.
-     2.230 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task succeeded
-     2.288 D | Parsing Minecraft profile...
-     2.288 D | AuthFlow: "Getting skin."
-     2.397 D | Writing account list to "accounts.json"
-     2.397 D | Building JSON data structure.
-     2.397 D | Building account array.
-     2.397 D | Writing account list to file.
-     2.398 D | Saved account list to "accounts.json"
-     2.399 D | RefreshSchedule: Background account refresh succeeded
-     3.309 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/resourcepacks"
-     3.330 W | Pack format ' 42 ' is not a recognized resource pack id!
-     3.364 W | Pack format ' 42 ' is not a recognized resource pack id!
-     3.399 W | Pack format ' 42 ' is not a recognized resource pack id!
-     7.250 D | "v1.21.4" | Component list save performed now
-    30.744 W | Tried to update the selected button but there is not a pack selected
-    30.744 W | Tried to update the selected button but there is not a pack selected
-    32.302 W | Tried to update the selected button but there is not a pack selected
-    44.038 W | Pack format ' 55 ' is not a recognized resource pack id!
-    47.319 D | Stopped watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/resourcepacks"
+     0.064 D | Reloading news.
+     0.065 D | [launcher.instance.profile.resolve]: Loading components
+     0.065 D | "v1.16.1" | Component list save is scheduled
+     0.067 D | [launcher.instance.profile.resolve]: "v1.16.1" | Remote loading is being run for "LWJGL 3"
+     0.068 D | [launcher.instance.profile.resolve]: "v1.16.1" | Remote loading is being run for "Minecraft"
+     0.069 D | [launcher.instance.profile.resolve]: "v1.16.1" | Remote loading is being run for "Intermediary Mappings"
+     0.069 D | [launcher.instance.profile.resolve]: "v1.16.1" | Remote loading is being run for "Fabric Loader"
+     0.069 D | [launcher.instance.profile]: "v1.16.1" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+     0.074 D | Instance-type specific settings were loaded!
+     0.143 D | <> Main window shown.
+     0.143 D | Initializing updater
+     0.143 D | <> Updater started.
+     0.185 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
+     0.234 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
+     0.242 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
+     0.242 D | Got translations index!
+     0.306 D | Finished loading RSS feed.
+     0.309 D | Loaded news entry "Prism Launcher Release 9.4, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 9.3, now available"
+     0.309 D | Loaded news entry "[April Fools 2025] Announcing Prism Premium"
+     0.309 D | Loaded news entry "Moving on from Twitter"
+     0.309 D | Loaded news entry "Prism Launcher Release 9.2, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 9.1, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 9.0, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 8.4, now available"
+     0.309 D | Loaded news entry "Microsoft authentication issues in some regions"
+     0.309 D | Loaded news entry "Prism Launcher Release 8.3, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 8.2, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 8.1, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 8.0, now available"
+     0.309 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
+     0.309 D | Loaded news entry "Prism Launcher Release 7.2, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 7.1, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 7.0, now available"
+     0.309 D | Loaded news entry "FTB Modpack Downloading Removal."
+     0.309 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
+     0.309 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 6.2, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 6.1, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 6.0, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 5.2, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 5.1, now available"
+     0.309 D | Loaded news entry "Prism Launcher Release 5.0, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.4.2, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.4.1, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.4.0, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.3.2, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.3.1, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.3.0, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+     0.309 D | Loaded news entry "PolyMC Update 1.2.1, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.2.0, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.1.1, now available"
+     0.309 D | Loaded news entry "PolyMC Update 1.1.0, now available"
+     0.309 D | Loaded news entry "Moving on"
+     0.309 D | Loaded news entry "Modrinth support and Mod downloading"
+     0.309 D | Loaded news entry "New maintainers and step down."
+     0.309 D | News loading succeeded.
+     0.497 D | AuthFlow: "Logging in as an Xbox user."
+     0.497 D | First layer of XBox auth ... commencing.
+     0.497 D | [launcher.task.net.upload]: "{6d07f566-d6c4-4448-abca-8140f44c3a5d}" Running  "https://user.auth.xboxlive.com/user/authenticate"
+     0.591 D | [launcher.task.net.upload]: "{6d07f566-d6c4-4448-abca-8140f44c3a5d}" Request succeeded: "https://user.auth.xboxlive.com/user/authenticate"
+     0.591 D | Parsing "UToken" :
+     0.591 D | "UToken" is valid.
+     0.591 D | AuthFlow: "Getting authorization to access Xbox services."
+     0.591 D | Getting authorization token for  "http://xboxlive.com"
+     0.591 D | [launcher.task.net.upload]: "{6e13b7cd-e001-4c3b-8162-deba5eda868d}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+     0.843 D | [launcher.task.net.upload]: "{6e13b7cd-e001-4c3b-8162-deba5eda868d}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+     0.843 D | Parsing "Xbox" :
+     0.843 D | "Xbox" is valid.
+     0.843 D | AuthFlow: "Getting authorization to access Mojang services."
+     0.843 D | Getting authorization token for  "rp://api.minecraftservices.com/"
+     0.843 D | [launcher.task.net.upload]: "{76d8fbc1-19ea-4fbc-aca1-dbad425feaaf}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+     0.942 D | [launcher.task.net.upload]: "{76d8fbc1-19ea-4fbc-aca1-dbad425feaaf}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+     0.942 D | Parsing "Mojang" :
+     0.942 D | "Mojang" is valid.
+     0.942 D | AuthFlow: "Accessing Mojang services."
+     0.942 D | Getting Minecraft access token...
+     0.942 D | [launcher.task.net.upload]: "{1471a6b2-59e7-4c1c-9812-94bee3228160}" Running  "https://api.minecraftservices.com/launcher/login"
+     1.251 D | [launcher.instance.profile.resolve]: Loading components
+     1.251 D | "v1.21.4" | Component list save is scheduled
+     1.254 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "LWJGL 3"
+     1.256 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Minecraft"
+     1.256 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Intermediary Mappings"
+     1.256 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Fabric Loader"
+     1.256 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+     1.260 D | Instance-type specific settings were loaded!
+     1.645 D | [launcher.task.net.upload]: "{1471a6b2-59e7-4c1c-9812-94bee3228160}" Request succeeded: "https://api.minecraftservices.com/launcher/login"
+     1.645 D | Parsing Mojang response...
+     1.645 D | Mojang response is valid.
+     1.645 D | AuthFlow: "Fetching Xbox profile."
+     1.645 D | Getting Xbox profile...
+     1.972 D | AccountList: Pushed account with internal ID  "ad52add2095d4b11b40ee742abb73e89"  to the front of the queue
+     2.331 D | AuthFlow: "Determining game ownership."
+     2.332 D | Getting entitlements...
+     3.147 D | Parsing Minecraft entitlements...
+     3.151 D | AuthFlow: "Fetching the Minecraft profile."
+     3.250 D | Parsing Minecraft profile...
+     3.250 D | AuthFlow: "Getting skin."
+     3.324 D | Writing account list to "accounts.json"
+     3.324 D | Building JSON data structure.
+     3.324 D | Building account array.
+     3.324 D | Writing account list to file.
+     3.326 D | Saved account list to "accounts.json"
+     3.326 D | RefreshSchedule: Background account refresh succeeded
+     3.817 D | "v1.21.4" | Component list save performed now
+     3.820 D | [launcher.instance.profile.resolve]: Loading components
+     3.820 D | "v1.21.4" | Component list save is scheduled
+     3.820 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "LWJGL 3"
+     3.820 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Minecraft"
+     3.820 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Intermediary Mappings"
+     3.820 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Fabric Loader"
+     3.832 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+     3.905 D | [launcher.instance.profile.resolve]: Remote task 1 succeeded
+     3.905 D | [launcher.instance.profile.resolve]: Remote task 0 succeeded
+     3.905 D | [launcher.instance.profile.resolve]: Remote task 3 succeeded
+     3.905 D | [launcher.instance.profile.resolve]: Remote task 2 succeeded
+     3.905 D | [launcher.instance.profile.resolve]: Resolving dependencies
+     3.905 D | [launcher.instance.profile.resolve]: "Req: net.fabricmc.intermediary" Is met.
+     3.905 D | [launcher.instance.profile.resolve]: "Req: net.minecraft == 1.21.4" Is met.
+     3.905 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is met.
+     3.905 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task succeeded
+     3.910 D | Writing account list to "accounts.json"
+     3.910 D | Building JSON data structure.
+     3.910 D | Building account array.
+     3.910 D | Writing account list to file.
+     3.912 D | Saved account list to "accounts.json"
+     3.912 W | Profile "55ec3042107a413fa1893a26292be9df" is now in use.
+     3.913 D | "v1.21.4" : downloading libraries
+     3.913 D | [launcher.instance.profile]: "v1.21.4" | Applying "org.lwjgl3" GOOD
+     3.913 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.minecraft" GOOD
+     3.913 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.intermediary" GOOD
+     3.913 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.fabric-loader" GOOD
+     3.979 D | Asset index SHA1: "a3ba20cfc986a1bdc332659cdbae84f9730d93d1"
+     3.979 D | "v1.21.4" : Starting asset index download
+     3.990 W | QWindowsWindow::setGeometry: Unable to set geometry 720x207+618+879 (frame: 742x263+607+834) on QWidgetWindow/"ProgressDialogWindow" on "PG32UCDM". Resulting geometry: 720x306+618+879 (frame: 742x362+607+834) margins: 11, 45, 11, 11 minimum size: 480x138 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=263)))
+     4.078 D | "v1.21.4" : Finished asset index download
+     5.067 D | "v1.16.1" | Component list save performed now
+     5.612 D | reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
+     5.667 D | "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms8000m -Xmx32000m -Duser.language=en -Djava.library.path=C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/natives -cp C:/Users/tanavm/AppData/Local/Programs/PrismLauncher/jars/NewLaunch.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype-natives-windows-arm64/3.3.3/lwjgl-freetype-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype-natives-windows-x86/3.3.3/lwjgl-freetype-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype-natives-windows/3.3.3/lwjgl-freetype-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.3/lwjgl-glfw-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.3/lwjgl-glfw-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.3/lwjgl-glfw-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.3/lwjgl-jemalloc-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.3/lwjgl-jemalloc-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.3/lwjgl-jemalloc-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.3.3/lwjgl-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.3/lwjgl-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows/3.3.3/lwjgl-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.3/lwjgl-openal-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.3/lwjgl-openal-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.3/lwjgl-openal-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.3/lwjgl-opengl-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.3/lwjgl-opengl-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.3/lwjgl-opengl-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.3/lwjgl-stb-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.3/lwjgl-stb-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.3/lwjgl-stb-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.3/lwjgl-tinyfd-natives-windows-arm64-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.3/lwjgl-tinyfd-natives-windows-x86-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.3/lwjgl-tinyfd-natives-windows-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/authlib/6.0.57/authlib-6.0.57.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/jtracy-natives-windows/1.0.29/jtracy-natives-windows-1.0.29.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm/9.8/asm-9.8.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar;C:/Users/tanavm/AppData/Roaming/PrismLauncher/libraries/com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar org.prismlauncher.EntryPoint"
+     5.711 W | Invalid type for mod parse task!
+     8.896 D | "v1.21.4" | Component list save performed now
+    23.326 D | AuthFlow: "Logging in with Microsoft account."
+    23.326 D | RefreshSchedule: Processing account  "TechProKing"  with internal ID  "ad52add2095d4b11b40ee742abb73e89"
+    23.574 D | AuthFlow: "Logging in as an Xbox user."
+    23.575 D | First layer of XBox auth ... commencing.
+    23.575 D | [launcher.task.net.upload]: "{53adb89c-ede8-4d27-804e-ff1e6868355f}" Running  "https://user.auth.xboxlive.com/user/authenticate"
+    23.612 D | [launcher.task.net.upload]: "{53adb89c-ede8-4d27-804e-ff1e6868355f}" Request succeeded: "https://user.auth.xboxlive.com/user/authenticate"
+    23.612 D | Parsing "UToken" :
+    23.612 D | "UToken" is valid.
+    23.612 D | AuthFlow: "Getting authorization to access Xbox services."
+    23.612 D | Getting authorization token for  "http://xboxlive.com"
+    23.612 D | [launcher.task.net.upload]: "{e33c5d55-b453-425e-9bb7-b910b28d0d08}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+    23.696 D | [launcher.task.net.upload]: "{e33c5d55-b453-425e-9bb7-b910b28d0d08}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+    23.696 D | Parsing "Xbox" :
+    23.696 D | "Xbox" is valid.
+    23.696 D | AuthFlow: "Getting authorization to access Mojang services."
+    23.696 D | Getting authorization token for  "rp://api.minecraftservices.com/"
+    23.696 D | [launcher.task.net.upload]: "{8ea43e2d-8419-4ff7-ba63-194324354f56}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+    23.780 D | [launcher.task.net.upload]: "{8ea43e2d-8419-4ff7-ba63-194324354f56}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+    23.780 D | Parsing "Mojang" :
+    23.780 D | "Mojang" is valid.
+    23.780 D | AuthFlow: "Accessing Mojang services."
+    23.780 D | Getting Minecraft access token...
+    23.780 D | [launcher.task.net.upload]: "{ed8d1d3d-4647-4581-86e4-3b54a6308900}" Running  "https://api.minecraftservices.com/launcher/login"
+    24.402 D | [launcher.task.net.upload]: "{ed8d1d3d-4647-4581-86e4-3b54a6308900}" Request succeeded: "https://api.minecraftservices.com/launcher/login"
+    24.403 D | Parsing Mojang response...
+    24.403 D | Mojang response is valid.
+    24.403 D | AuthFlow: "Fetching Xbox profile."
+    24.403 D | Getting Xbox profile...
+    24.554 D | AuthFlow: "Determining game ownership."
+    24.554 D | Getting entitlements...
+    25.279 D | Parsing Minecraft entitlements...
+    25.279 D | AuthFlow: "Fetching the Minecraft profile."
+    25.353 D | Parsing Minecraft profile...
+    25.353 D | AuthFlow: "Getting skin."
+    25.366 D | Writing account list to "accounts.json"
+    25.366 D | Building JSON data structure.
+    25.366 D | Building account array.
+    25.366 D | Writing account list to file.
+    25.368 D | Saved account list to "accounts.json"
+    25.368 D | RefreshSchedule: Background account refresh succeeded
+    34.068 D | [launcher.task.net.metacache.http]: Saving metacache with 14 entries
+  6480.641 D | [launcher.instance.profile.resolve]: Loading components
+  6480.641 D | "v1.21.4" | Component list save is scheduled
+  6480.641 D | [launcher.instance.profile.resolve]: Resolving dependencies
+  6480.641 D | [launcher.instance.profile.resolve]: "Req: net.fabricmc.intermediary" Is met.
+  6480.641 D | [launcher.instance.profile.resolve]: "Req: net.minecraft == 1.21.4" Is met.
+  6480.641 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is met.
+  6480.641 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task succeeded
+  6480.641 D | QProxyStyle NoBigComboBox created for "" QStyleSheetStyle(0x18c3c009680)
+  6480.652 D | [launcher.instance.profile]: "v1.21.4" | Applying "org.lwjgl3" GOOD
+  6480.652 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.minecraft" GOOD
+  6480.652 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.intermediary" GOOD
+  6480.652 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.fabric-loader" GOOD
+  6480.669 D | World Name: "New World"
+  6480.669 D | Last Played: "Sat May 17 19:34:37 2025"
+  6480.669 D | Seed: -2755224086052570684
+  6480.669 D | Size: 80461875
+  6480.669 D | GameType: "Survival"
+  6480.969 W | QLayout: Attempting to add QLayout "" to InstanceWindow "", which already has a layout
+  6482.199 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/shaderpacks"
+  6485.632 D | "v1.21.4" | Component list save performed now
+  6545.228 W | QString::arg: Argument missing: , Shader packs
+  6552.211 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/ModrinthPacks/images/287f667548b550e4748f8dc0bfc7cded11c7ec7e"
+  6560.521 W | Tried to update the selected button but there is not a pack selected
+  6560.521 W | Tried to update the selected button but there is not a pack selected
+  6561.252 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/ModrinthPacks/images/287f667548b550e4748f8dc0bfc7cded11c7ec7e"
+  6570.183 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/ModrinthPacks/images/361e53006585049390cafaf9f9f11308369ad0aa"
+  6586.769 W | QWindowsWindow::setGeometry: Unable to set geometry 720x207+188+459 (frame: 742x263+177+414) on QWidgetWindow/"ProgressDialogWindow" on "PG32UCDM". Resulting geometry: 720x306+188+459 (frame: 742x362+177+414) margins: 11, 45, 11, 11 minimum size: 480x138 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=263)))
+  6588.784 D | Stopped watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/shaderpacks"
+  7540.901 D | Writing account list to "accounts.json"
+  7540.901 D | Building JSON data structure.
+  7540.901 D | Building account array.
+  7540.901 D | Writing account list to file.
+  7540.903 D | Saved account list to "accounts.json"
+  7540.903 W | Profile "55ec3042107a413fa1893a26292be9df" is no longer in use.

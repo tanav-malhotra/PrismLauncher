@@ -3,7 +3,6 @@
         {
             "cachedName": "LWJGL 3",
             "cachedVersion": "3.2.2",
-            "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
             "version": "3.2.2"
@@ -30,7 +29,6 @@
                 }
             ],
             "cachedVersion": "1.16.1",
-            "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "net.fabricmc.intermediary",
             "version": "1.16.1"
