@@ -1,1 +1,0 @@
-advancement revoke @s only practice:inventory_changes

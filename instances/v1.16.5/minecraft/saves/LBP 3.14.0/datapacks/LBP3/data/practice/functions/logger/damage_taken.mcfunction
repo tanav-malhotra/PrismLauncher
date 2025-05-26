@@ -1,1 +1,0 @@
-tellraw @a ["[",{"score":{"name":"minutes","objective":"timer.temp"}},":",{"nbt":"seconds","storage":"timer","interpret":true},".",{"nbt":"miliseconds","storage":"timer","interpret":true},"] ",{"text":"Damage","color":"#f73831"},": ",{"score":{"name":"@s","objective":"damage_taken"}}]

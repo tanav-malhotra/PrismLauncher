@@ -1,1 +1,0 @@
-execute if score timer timer matches 100 run function practice:rotation_profiler/get_result

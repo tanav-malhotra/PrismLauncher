@@ -1,1 +1,0 @@
-function sp.utils:rng/load
