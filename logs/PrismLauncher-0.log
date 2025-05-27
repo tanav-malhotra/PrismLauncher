@@ -29,192 +29,196 @@
      0.000 D | Binary path                :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
      0.000 D | Application root path      :  "C:/Users/tanavm/AppData/Local/Programs/PrismLauncher"
      0.000 D | <> Paths set.
-     0.011 D | Detected default console font: "Courier New" , substitutions: ""
-     0.026 D | <> Settings loaded.
-     0.027 D | Detecting proxy settings...
-     0.027 D | Using no proxy is an option!
-     0.027 D | <> Network done.
-     0.033 D | Your language is "en_US"
-     0.033 D | <> Translations loaded.
-     0.034 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/icons"
-     0.034 D | Sorting icon list...
-     0.034 D | <> Instance icons initialized.
-     0.035 D | [Theme] Determining System Widget Theme...
-     0.035 D | [Theme] System theme seems to be: "windows11"
-     0.035 D | [Theme] <> Initializing Icon Themes
-     0.035 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "pe_light"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "OSX"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "iOS"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "flat"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "flat_white"
-     0.035 D | [Theme] Loaded Built-In Icon Theme "multimc"
-     0.035 D | [Theme] Icon Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/iconthemes"
-     0.035 D | [Theme] <> Icon themes initialized.
-     0.035 D | [Theme] <> Initializing Widget Themes
-     0.035 D | [Theme] Loading Built-in Theme: "system"
-     0.035 D | [Theme] Loading Built-in Theme: "dark"
-     0.035 D | [Theme] Loading Built-in Theme: "bright"
-     0.035 D | [Theme] <> Initializing System Widget Themes
-     0.035 D | [Theme] Loading System Theme: "windows11"
-     0.035 D | [Theme] Loading System Theme: "windowsvista"
-     0.035 D | [Theme] Loading System Theme: "Windows"
-     0.035 D | [Theme] Loading System Theme: "Fusion"
-     0.035 D | [Theme] Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/themes"
-     0.035 D | [Theme] <> Widget themes initialized.
-     0.036 D | [Theme] CatPacks Folder Path: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/catpacks"
-     0.042 D | Instance path              :  "instances"
-     0.042 D | Loading Instances...
-     0.042 D | Discovering instances in "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances"
-     0.042 D | Found instance ID "1.21.5"
-     0.042 D | Found instance ID "v1.16.1"
-     0.042 D | Found instance ID "v1.21.4"
-     0.042 D | Found instance ID "v1.8.9"
-     0.042 D | Will load group list now.
-     0.047 D | Group list loaded.
-     0.050 D | Loaded instance  "1.21.5"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/1.21.5"
-     0.056 D | Loaded instance  "v1.16.1"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.16.1"
-     0.061 D | Loaded instance  "v1.21.4"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4"
-     0.065 D | Loaded instance  "v1.8.9"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.8.9"
-     0.065 D | <> Instances loaded.
-     0.065 D | Loading accounts...
-     0.069 D | AccountList: Queued default account with internal ID  "be5912a088f1482e96d3e71ffc72a632"  to refresh first
-     0.070 D | AuthFlow: "Logging in with Microsoft account."
-     0.081 D | RefreshSchedule: Processing account  "TechProKing"  with internal ID  "be5912a088f1482e96d3e71ffc72a632"
-     0.081 D | <> Accounts loaded.
-     0.088 D | <> Cache initialized.
-     0.088 D | Downloading Translations Index...
-     0.089 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
-     0.101 D | [Theme] <> Icon theme set.
-     0.102 D | [Theme] applying theme "Dark"
-     0.102 D | [Theme] <> Application theme set.
-     0.117 D | Reloading news.
-     0.122 D | [launcher.instance.profile.resolve]: Loading components
-     0.122 D | "v1.21.4" | Component list save is scheduled
-     0.130 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "LWJGL 3"
-     0.139 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Minecraft"
-     0.144 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Intermediary Mappings"
-     0.149 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Fabric Loader"
-     0.149 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
-     0.154 D | Instance-type specific settings were loaded!
-     0.222 D | <> Main window shown.
-     0.222 D | Initializing updater
-     0.222 D | <> Updater started.
-     0.241 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
+     0.009 D | Detected default console font: "Courier New" , substitutions: ""
+     0.022 D | <> Settings loaded.
+     0.022 D | Detecting proxy settings...
+     0.022 D | Using no proxy is an option!
+     0.022 D | <> Network done.
+     0.027 D | Your language is "en_US"
+     0.027 D | <> Translations loaded.
+     0.027 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/icons"
+     0.028 D | Sorting icon list...
+     0.028 D | <> Instance icons initialized.
+     0.028 D | [Theme] Determining System Widget Theme...
+     0.028 D | [Theme] System theme seems to be: "windows11"
+     0.028 D | [Theme] <> Initializing Icon Themes
+     0.028 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "pe_light"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "OSX"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "iOS"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "flat"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "flat_white"
+     0.028 D | [Theme] Loaded Built-In Icon Theme "multimc"
+     0.029 D | [Theme] Icon Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/iconthemes"
+     0.029 D | [Theme] <> Icon themes initialized.
+     0.029 D | [Theme] <> Initializing Widget Themes
+     0.029 D | [Theme] Loading Built-in Theme: "system"
+     0.029 D | [Theme] Loading Built-in Theme: "dark"
+     0.029 D | [Theme] Loading Built-in Theme: "bright"
+     0.029 D | [Theme] <> Initializing System Widget Themes
+     0.029 D | [Theme] Loading System Theme: "windows11"
+     0.029 D | [Theme] Loading System Theme: "windowsvista"
+     0.029 D | [Theme] Loading System Theme: "Windows"
+     0.029 D | [Theme] Loading System Theme: "Fusion"
+     0.029 D | [Theme] Theme Folder Path:  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/themes"
+     0.029 D | [Theme] <> Widget themes initialized.
+     0.029 D | [Theme] CatPacks Folder Path: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/catpacks"
+     0.035 D | Instance path              :  "instances"
+     0.035 D | Loading Instances...
+     0.035 D | Discovering instances in "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances"
+     0.036 D | Found instance ID "1.21.5"
+     0.036 D | Found instance ID "v1.16.1"
+     0.036 D | Found instance ID "v1.21.4"
+     0.036 D | Found instance ID "v1.8.9"
+     0.036 D | Will load group list now.
+     0.039 D | Group list loaded.
+     0.042 D | Loaded instance  "1.21.5"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/1.21.5"
+     0.046 D | Loaded instance  "v1.16.1"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.16.1"
+     0.049 D | Loaded instance  "v1.21.4"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4"
+     0.052 D | Loaded instance  "v1.8.9"  from  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.8.9"
+     0.052 D | <> Instances loaded.
+     0.052 D | Loading accounts...
+     0.056 D | AccountList: Queued default account with internal ID  "bbefbcefc51745588fa21e19886e184f"  to refresh first
+     0.056 D | AuthFlow: "Logging in with Microsoft account."
+     0.068 D | RefreshSchedule: Processing account  "TechProKing"  with internal ID  "bbefbcefc51745588fa21e19886e184f"
+     0.068 D | <> Accounts loaded.
+     0.074 D | <> Cache initialized.
+     0.074 D | Downloading Translations Index...
+     0.088 D | [Theme] <> Icon theme set.
+     0.088 D | [Theme] applying theme "Dark"
+     0.088 D | [Theme] <> Application theme set.
+     0.103 D | Reloading news.
+     0.109 D | [launcher.instance.profile.resolve]: Loading components
+     0.109 D | "v1.21.4" | Component list save is scheduled
+     0.116 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "LWJGL 3"
+     0.122 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Minecraft"
+     0.125 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Intermediary Mappings"
+     0.130 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Fabric Loader"
+     0.130 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+     0.135 D | Instance-type specific settings were loaded!
+     0.198 D | <> Main window shown.
+     0.198 D | Initializing updater
+     0.198 D | <> Updater started.
+     0.216 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
      0.294 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
-     0.301 D | Got translations index!
      0.301 D | Dir changed: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/translations"
-     0.328 D | Finished loading RSS feed.
-     0.330 D | Loaded news entry "Prism Launcher Release 9.4, now available"
-     0.330 D | Loaded news entry "Prism Launcher Release 9.3, now available"
-     0.330 D | Loaded news entry "[April Fools 2025] Announcing Prism Premium"
-     0.330 D | Loaded news entry "Moving on from Twitter"
-     0.330 D | Loaded news entry "Prism Launcher Release 9.2, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 9.1, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 9.0, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 8.4, now available"
-     0.331 D | Loaded news entry "Microsoft authentication issues in some regions"
-     0.331 D | Loaded news entry "Prism Launcher Release 8.3, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 8.2, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 8.1, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 8.0, now available"
-     0.331 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
-     0.331 D | Loaded news entry "Prism Launcher Release 7.2, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 7.1, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 7.0, now available"
-     0.331 D | Loaded news entry "FTB Modpack Downloading Removal."
-     0.331 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
-     0.331 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 6.2, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 6.1, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 6.0, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 5.2, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 5.1, now available"
-     0.331 D | Loaded news entry "Prism Launcher Release 5.0, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.4.2, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.4.1, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.4.0, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.3.2, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.3.1, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.3.0, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-     0.331 D | Loaded news entry "PolyMC Update 1.2.1, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.2.0, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.1.1, now available"
-     0.331 D | Loaded news entry "PolyMC Update 1.1.0, now available"
-     0.331 D | Loaded news entry "Moving on"
-     0.331 D | Loaded news entry "Modrinth support and Mod downloading"
-     0.331 D | Loaded news entry "New maintainers and step down."
-     0.331 D | News loading succeeded.
-     0.591 D | AuthFlow: "Logging in as an Xbox user."
-     0.591 D | First layer of XBox auth ... commencing.
-     0.591 D | [launcher.task.net.upload]: "{d81d79e6-0b9d-4f90-884b-4e093eb14846}" Running  "https://user.auth.xboxlive.com/user/authenticate"
-     0.678 D | [launcher.task.net.upload]: "{d81d79e6-0b9d-4f90-884b-4e093eb14846}" Request succeeded: "https://user.auth.xboxlive.com/user/authenticate"
-     0.678 D | Parsing "UToken" :
-     0.678 D | "UToken" is valid.
-     0.678 D | AuthFlow: "Getting authorization to access Xbox services."
-     0.678 D | Getting authorization token for  "http://xboxlive.com"
-     0.678 D | [launcher.task.net.upload]: "{41d3406b-b4c0-4408-845b-b3510a0738e3}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.893 D | [launcher.task.net.upload]: "{41d3406b-b4c0-4408-845b-b3510a0738e3}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.894 D | Parsing "Xbox" :
-     0.894 D | "Xbox" is valid.
-     0.894 D | AuthFlow: "Getting authorization to access Mojang services."
-     0.894 D | Getting authorization token for  "rp://api.minecraftservices.com/"
-     0.894 D | [launcher.task.net.upload]: "{cdc43582-d00a-48b1-9e42-7e37a96bf967}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.979 D | [launcher.task.net.upload]: "{cdc43582-d00a-48b1-9e42-7e37a96bf967}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
-     0.979 D | Parsing "Mojang" :
-     0.979 D | "Mojang" is valid.
-     0.979 D | AuthFlow: "Accessing Mojang services."
-     0.979 D | Getting Minecraft access token...
-     0.979 D | [launcher.task.net.upload]: "{fafd76b2-d319-4e03-9f5f-dbecf5fbc98e}" Running  "https://api.minecraftservices.com/launcher/login"
-     1.810 D | [launcher.task.net.upload]: "{fafd76b2-d319-4e03-9f5f-dbecf5fbc98e}" Request succeeded: "https://api.minecraftservices.com/launcher/login"
-     1.810 D | Parsing Mojang response...
-     1.810 D | Mojang response is valid.
-     1.810 D | AuthFlow: "Fetching Xbox profile."
-     1.810 D | Getting Xbox profile...
-     2.136 D | AuthFlow: "Determining game ownership."
-     2.136 D | Getting entitlements...
-     2.812 D | Parsing Minecraft entitlements...
-     2.812 D | AuthFlow: "Fetching the Minecraft profile."
-     2.846 D | Parsing Minecraft profile...
-     2.847 D | AuthFlow: "Getting skin."
-     2.962 D | Writing account list to "accounts.json"
-     2.962 D | Building JSON data structure.
-     2.962 D | Building account array.
-     2.963 D | Writing account list to file.
-     2.964 D | Saved account list to "accounts.json"
-     2.965 D | RefreshSchedule: Background account refresh succeeded
-     5.140 D | "v1.21.4" | Component list save performed now
-     5.432 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
-     5.486 W | beginResetModel called on VersionProxyModel(0x195300c6e50) without calling endResetModel first
-     5.486 W | beginResetModel called on VersionBasicModel(0x195300a1b90) without calling endResetModel first
-     5.486 W | beginResetModel called on AllVersionProxyModel(0x195300a1d70) without calling endResetModel first
-     5.486 W | endResetModel called on VersionProxyModel(0x195300c6e50) without calling beginResetModel first
-     5.486 W | endResetModel called on VersionBasicModel(0x195300a1b90) without calling beginResetModel first
-     5.486 W | endResetModel called on AllVersionProxyModel(0x195300a1d70) without calling beginResetModel first
-     5.491 W | The ftb app setings doesn't exist.
-     5.493 W | beginResetModel called on VersionProxyModel(0x1953159fc60) without calling endResetModel first
-     5.493 W | beginResetModel called on VersionBasicModel(0x19531573f90) without calling endResetModel first
-     5.493 W | beginResetModel called on CheckComboModel(0x1953185f970) without calling endResetModel first
-     5.493 W | endResetModel called on VersionProxyModel(0x1953159fc60) without calling beginResetModel first
-     5.493 W | endResetModel called on VersionBasicModel(0x19531573f90) without calling beginResetModel first
-     5.493 W | endResetModel called on CheckComboModel(0x1953185f970) without calling beginResetModel first
-     5.502 W | beginResetModel called on VersionProxyModel(0x1952fdd4070) without calling endResetModel first
-     5.502 W | endResetModel called on VersionProxyModel(0x1952fdd4070) without calling beginResetModel first
-    15.454 D | Loading modrinth modpack information
-    15.454 D | Loading modrinth modpack versions
-    23.003 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/ModrinthModpacks/images/729280e21c0d6e9b77aecfc93bc61cd413f3d9de"
-    23.011 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/ModrinthModpacks/images/c9266526c86b08763476d2a921cf31bdbcdc9bad"
-    23.016 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/ModrinthModpacks/images/d35f2c24da96b356beeeb601404015e5e997b8a5"
-    23.331 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/ModrinthModpacks/images/5895f029cee2e7cd66d18e663415ac3921d5a793"
-    43.196 D | Loading flame modpack versions
-    44.032 D | Loading flame modpack versions
-    44.085 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/FlamePacks/images/f2c67747f04aa3cdc4bc760db2e4096d713ccd60"
-    47.785 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/FlamePacks/images/da3ac4075568bc50653e3b7e57691a56fa23f532"
-    48.669 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/FlamePacks/images/9bfdeedbbba6ecd6b8987127f0f1173eb5fa41de"
-    48.682 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/FlamePacks/images/9bfdeedbbba6ecd6b8987127f0f1173eb5fa41de"
-    63.109 D | Loaded resource at: "C:/Users/tanavm/AppData/Roaming/PrismLauncher/cache/FlamePacks/images/9bfdeedbbba6ecd6b8987127f0f1173eb5fa41de"
+     0.302 D | Got translations index!
+     0.318 D | Finished loading RSS feed.
+     0.320 D | Loaded news entry "Prism Launcher Release 9.4, now available"
+     0.320 D | Loaded news entry "Prism Launcher Release 9.3, now available"
+     0.320 D | Loaded news entry "[April Fools 2025] Announcing Prism Premium"
+     0.320 D | Loaded news entry "Moving on from Twitter"
+     0.321 D | Loaded news entry "Prism Launcher Release 9.2, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 9.1, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 9.0, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 8.4, now available"
+     0.321 D | Loaded news entry "Microsoft authentication issues in some regions"
+     0.321 D | Loaded news entry "Prism Launcher Release 8.3, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 8.2, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 8.1, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 8.0, now available"
+     0.321 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
+     0.321 D | Loaded news entry "Prism Launcher Release 7.2, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 7.1, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 7.0, now available"
+     0.321 D | Loaded news entry "FTB Modpack Downloading Removal."
+     0.321 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
+     0.321 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 6.2, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 6.1, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 6.0, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 5.2, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 5.1, now available"
+     0.321 D | Loaded news entry "Prism Launcher Release 5.0, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.4.2, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.4.1, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.4.0, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.3.2, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.3.1, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.3.0, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+     0.321 D | Loaded news entry "PolyMC Update 1.2.1, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.2.0, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.1.1, now available"
+     0.321 D | Loaded news entry "PolyMC Update 1.1.0, now available"
+     0.321 D | Loaded news entry "Moving on"
+     0.321 D | Loaded news entry "Modrinth support and Mod downloading"
+     0.321 D | Loaded news entry "New maintainers and step down."
+     0.321 D | News loading succeeded.
+     0.611 D | AuthFlow: "Logging in as an Xbox user."
+     0.611 D | First layer of XBox auth ... commencing.
+     0.612 D | [launcher.task.net.upload]: "{68cb3857-e0d1-4bc1-bcb7-09cce5c04232}" Running  "https://user.auth.xboxlive.com/user/authenticate"
+     0.925 D | [launcher.task.net.upload]: "{68cb3857-e0d1-4bc1-bcb7-09cce5c04232}" Request succeeded: "https://user.auth.xboxlive.com/user/authenticate"
+     0.925 D | Parsing "UToken" :
+     0.925 D | "UToken" is valid.
+     0.925 D | AuthFlow: "Getting authorization to access Xbox services."
+     0.925 D | Getting authorization token for  "http://xboxlive.com"
+     0.925 D | [launcher.task.net.upload]: "{360a8717-74a0-4ab5-b17f-d9eace83ec33}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+     1.072 D | [launcher.task.net.upload]: "{360a8717-74a0-4ab5-b17f-d9eace83ec33}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+     1.073 D | Parsing "Xbox" :
+     1.073 D | "Xbox" is valid.
+     1.073 D | AuthFlow: "Getting authorization to access Mojang services."
+     1.073 D | Getting authorization token for  "rp://api.minecraftservices.com/"
+     1.073 D | [launcher.task.net.upload]: "{46c9d667-512f-4591-bfe8-68c8469f2207}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+     1.157 D | [launcher.task.net.upload]: "{46c9d667-512f-4591-bfe8-68c8469f2207}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+     1.157 D | Parsing "Mojang" :
+     1.157 D | "Mojang" is valid.
+     1.157 D | AuthFlow: "Accessing Mojang services."
+     1.157 D | Getting Minecraft access token...
+     1.157 D | [launcher.task.net.upload]: "{bff0a154-3d44-4cd4-a7bf-60a4a0863aec}" Running  "https://api.minecraftservices.com/launcher/login"
+     2.923 D | "v1.21.4" | Component list save performed now
+     2.933 D | [launcher.instance.profile.resolve]: Loading components
+     2.933 D | "v1.21.4" | Component list save is scheduled
+     2.933 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "LWJGL 3"
+     2.933 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Minecraft"
+     2.933 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Intermediary Mappings"
+     2.933 D | [launcher.instance.profile.resolve]: "v1.21.4" | Remote loading is being run for "Fabric Loader"
+     2.933 D | QProxyStyle NoBigComboBox created for "" QStyleSheetStyle(0x1b4afc225c0)
+     2.939 D | [launcher.instance.profile]: "v1.21.4" | Applying "org.lwjgl3" GOOD
+     2.939 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.minecraft" GOOD
+     2.939 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.intermediary" GOOD
+     2.939 D | [launcher.instance.profile]: "v1.21.4" | Applying "net.fabricmc.fabric-loader" GOOD
+     2.963 D | World Name: "New World"
+     2.963 D | Last Played: "Sat May 17 19:34:37 2025"
+     2.963 D | Seed: -2755224086052570684
+     2.963 D | Size: 80461875
+     2.963 D | GameType: "Survival"
+     3.306 W | QLayout: Attempting to add QLayout "" to InstanceWindow "", which already has a layout
+     3.362 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+     3.451 D | [launcher.instance.profile.resolve]: Remote task 1 succeeded
+     3.451 D | [launcher.instance.profile.resolve]: Remote task 2 succeeded
+     3.451 D | [launcher.instance.profile.resolve]: Remote task 0 succeeded
+     3.451 D | [launcher.instance.profile.resolve]: Remote task 3 succeeded
+     3.451 D | [launcher.instance.profile.resolve]: Resolving dependencies
+     3.451 D | [launcher.instance.profile.resolve]: "Req: net.fabricmc.intermediary" Is met.
+     3.451 D | [launcher.instance.profile.resolve]: "Req: net.minecraft == 1.21.4" Is met.
+     3.451 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is met.
+     3.451 D | [launcher.instance.profile]: "v1.21.4" | Component list update/resolve task succeeded
+     4.073 D | [launcher.task.net.upload]: "{bff0a154-3d44-4cd4-a7bf-60a4a0863aec}" Request succeeded: "https://api.minecraftservices.com/launcher/login"
+     4.073 D | Parsing Mojang response...
+     4.073 D | Mojang response is valid.
+     4.073 D | AuthFlow: "Fetching Xbox profile."
+     4.073 D | Getting Xbox profile...
+     4.308 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/mods"
+     4.308 D | Started watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/mods/.index"
+     4.572 D | AuthFlow: "Determining game ownership."
+     4.572 D | Getting entitlements...
+     4.618 W | Invalid type for mod parse task!
+     4.790 W | Mod at "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/mods/armored-elytra-1.4.1.jar" does not have a valid icon: "Failed to set 'assets/armored-elytra/icon.png' as current file in zip archive"
+     5.386 D | Parsing Minecraft entitlements...
+     5.386 D | AuthFlow: "Fetching the Minecraft profile."
+     5.467 D | Parsing Minecraft profile...
+     5.467 D | AuthFlow: "Getting skin."
+     5.562 D | Writing account list to "accounts.json"
+     5.562 D | Building JSON data structure.
+     5.562 D | Building account array.
+     5.562 D | Writing account list to file.
+     5.564 D | Saved account list to "accounts.json"
+     5.564 D | RefreshSchedule: Background account refresh succeeded
+     7.648 D | Stopped watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/mods"
+     7.648 D | Stopped watching  "C:/Users/tanavm/AppData/Roaming/PrismLauncher/instances/v1.21.4/minecraft/mods/.index"
+     8.296 D | "v1.21.4" | Component list save performed now
